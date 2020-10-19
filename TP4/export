@@ -1,0 +1,2020 @@
+fecha,dia_inicio,dia_cuarentena_dnu260,osm_admin_level_2,osm_admin_level_4,osm_admin_level_8,tot_casosconf,nue_casosconf_diff,tot_fallecidos,nue_fallecidos_diff,tot_recuperados,tot_terapia,test_RT-PCR_negativos,test_RT-PCR_total,transmision_tipo,informe_tipo,informe_link,observacion,covid19argentina_admin_level_4
+2/03/2020,1,,Argentina,CABA,,1,1,0,0,,,,,importado,,https://www.infobae.com/coronavirus/2020/03/03/confirmaron-el-primer-caso-de-coronavirus-en-la-argentina/,no hay informe,capital-federal
+3/03/2020,2,,Argentina,Indeterminado,,1,0,0,0,,,,,importado,,,no hay informe,no-data
+4/03/2020,3,,Argentina,Indeterminado,,1,0,0,0,,,,,importado,,,no hay informe,no-data
+5/03/2020,4,,Argentina,Buenos Aires,,2,1,2,2,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/5-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,,buenos-aires
+6/03/2020,5,,Argentina,Indeterminado,,2,0,2,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/6-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,,no-data
+7/03/2020,6,,Argentina,Indeterminado,,2,0,2,0,,,,,importado,,,no hay informe,no-data
+8/03/2020,7,,Argentina,Buenos Aires,,10,8,2,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/8-03-2020-nuevo-coronavirus-covid-19-reporte-diario_0.pdf,,buenos-aires
+9/03/2020,8,,Argentina,CABA,,11,1,3,1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf,,capital-federal
+9/03/2020,8,,Argentina,San Luis,,13,2,3,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf,,san-luis
+9/03/2020,8,,Argentina,Chaco,,18,5,3,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf,,chaco
+9/03/2020,8,,Argentina,Río Negro,,19,1,3,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf,,rio-negro
+10/03/2020,9,,Argentina,Buenos Aires,,20,1,3,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/10-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,,buenos-aires
+10/03/2020,9,,Argentina,CABA,,21,1,4,1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/10-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,,capital-federal
+11/03/2020,10,,Argentina,Buenos Aires,,22,1,4,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/11-03-2020-nuevo-coronavirus-covid-19-reporte-diario_0.pdf,,buenos-aires
+11/03/2020,10,,Argentina,CABA,,23,1,4,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/11-03-2020-nuevo-coronavirus-covid-19-reporte-diario_0.pdf,,capital-federal
+12/03/2020,8,,Argentina,CABA,,33,10,4,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/12-03-20-nuevo-coronavirus-covid-19_reporte-diario_0.pdf,,capital-federal
+13/03/2020,9,,Argentina,Buenos Aires,,34,1,4,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/13-03-20-reporte-diario-covid-19_0.pdf,,buenos-aires
+13/03/2020,9,,Argentina,CABA,,36,2,5,1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/13-03-20-reporte-diario-covid-19_0.pdf,,capital-federal
+14/03/2020,10,,Argentina,CABA,,47,11,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/14-03-20-reporte-diario-covid-19_0.pdf,Si bien separa por provincias no se aclara las cantidades por provincia.,capital-federal
+14/03/2020,10,,Argentina,Santa Fe,Rosario,48,1,5,0,,,,,,,,,
+15/03/2020,11,,Argentina,CABA,,54,6,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,,capital-federal
+15/03/2020,11,,Argentina,Chaco,,58,4,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,,chaco
+15/03/2020,11,,Argentina,Tierra del Fuego,,59,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,,tierra-del-fuego
+15/03/2020,11,,Argentina,Buenos Aires,,60,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,,buenos-aires
+16/03/2020,12,,Argentina,CABA,,65,5,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,,capital-federal
+16/03/2020,12,,Argentina,Chaco,,68,3,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,,chaco
+16/03/2020,12,,Argentina,Buenos Aires,,69,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,,buenos-aires
+16/03/2020,12,,Argentina,Indeterminado,,69,0,5,0,,,464,529,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,,no-data
+17/03/2020,13,,Argentina,Buenos Aires,,70,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,buenos-aires
+17/03/2020,13,,Argentina,CABA,,74,4,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,capital-federal
+17/03/2020,13,,Argentina,Córdoba,,76,2,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,cordoba
+17/03/2020,13,,Argentina,Chaco,,77,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,chaco
+17/03/2020,13,,Argentina,Jujuy,,78,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,jujuy
+17/03/2020,13,,Argentina,Salta,,79,1,5,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,salta
+17/03/2020,13,,Argentina,Río Negro,,80,1,6,1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,rio-negro
+17/03/2020,13,,Argentina,Entre Ríos,,81,1,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,entre-rios
+17/03/2020,13,,Argentina,Santa Cruz,,82,1,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,santa-cruz
+17/03/2020,13,,Argentina,Indeterminado,,82,0,6,0,,,496,574,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,,no-data
+18/03/2020,14,,Argentina,CABA,,92,10,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,capital-federal
+18/03/2020,14,,Argentina,Chaco,,93,1,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,chaco
+18/03/2020,14,,Argentina,Buenos Aires,,99,6,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,buenos-aires
+18/03/2020,14,,Argentina,Córdoba,,100,1,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,cordoba
+18/03/2020,14,,Argentina,Entre Ríos,,101,1,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,entre-rios
+18/03/2020,14,,Argentina,Indeterminado,,101,0,6,0,18,,562,659,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,,no-data
+19/03/2020,15,,Argentina,Buenos Aires,,115,14,6,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,buenos-aires
+19/03/2020,15,,Argentina,CABA,,123,8,7,1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,capital-federal
+19/03/2020,15,,Argentina,Córdoba,,125,2,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,cordoba
+19/03/2020,15,,Argentina,Chaco,,127,2,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,chaco
+19/03/2020,15,,Argentina,Tucumán,,128,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,tucuman
+19/03/2020,15,,Argentina,Santa Fe,Rosario,129,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,santa-fe
+19/03/2020,15,,Argentina,Río Negro,,131,2,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,rio-negro
+19/03/2020,15,,Argentina,Indeterminado,,131,0,7,0,23,,705,833,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,,no-data
+20/03/2020,16,,Argentina,CABA,,140,9,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,capital-federal
+20/03/2020,16,,Argentina,Buenos Aires,,149,9,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,buenos-aires
+20/03/2020,16,,Argentina,Córdoba,,153,4,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,cordoba
+20/03/2020,16,,Argentina,Chaco,,154,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,chaco
+20/03/2020,16,,Argentina,Tierra del Fuego,,155,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,tierra-del-fuego
+20/03/2020,16,,Argentina,Entre Ríos,,157,2,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,entre-rios
+20/03/2020,16,,Argentina,Corrientes,,158,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,corrientes
+20/03/2020,16,,Argentina,Neuquén,,159,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,neuquen
+20/03/2020,16,,Argentina,Santiago del Estero,,160,1,7,0,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,santiago-del-estero
+20/03/2020,16,,Argentina,Indeterminado,,160,0,7,0,27,,872,1030,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,,no-data
+21/03/2020,17,1,Argentina,CABA,,189,29,7,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,capital-federal
+21/03/2020,17,1,Argentina,Buenos Aires,,203,14,8,1,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,buenos-aires
+21/03/2020,17,1,Argentina,Chaco,,208,5,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,chaco
+21/03/2020,17,1,Argentina,Mendoza,,213,5,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,mendoza
+21/03/2020,17,1,Argentina,Córdoba,,217,4,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,cordoba
+21/03/2020,17,1,Argentina,Tierra del Fuego,,220,3,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,tierra-del-fuego
+21/03/2020,17,1,Argentina,Corrientes,,222,2,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,corrientes
+21/03/2020,17,1,Argentina,Santa Fe,Ciudad de Santa Fe,224,2,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,santa-fe
+21/03/2020,17,1,Argentina,Santa Fe,Rafaela,225,1,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,santa-fe
+21/03/2020,17,1,Argentina,Tucumán,,226,1,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,tucuman
+21/03/2020,17,1,Argentina,Río Negro,,227,1,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,rio-negro
+21/03/2020,17,1,Argentina,Indeterminado,,227,0,8,0,31,,1028,1253,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,,no-data
+22/03/2020,18,2,Argentina,CABA,,238,11,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,capital-federal
+22/03/2020,18,2,Argentina,Buenos Aires,,246,8,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,buenos-aires
+22/03/2020,18,2,Argentina,Córdoba,,254,8,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,cordoba
+22/03/2020,18,2,Argentina,Chaco,,261,7,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,chaco
+22/03/2020,18,2,Argentina,Tucumán,,266,5,8,0,,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,tucuman
+22/03/2020,18,2,Argentina,Indeterminado,,266,0,8,0,51,,1271,1537,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,,no-data
+23/03/2020,19,3,Argentina,CABA,,277,11,8,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,,capital-federal
+23/03/2020,19,3,Argentina,Buenos Aires,,282,5,8,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,,buenos-aires
+23/03/2020,19,3,Argentina,Santa Fe,Helvecia,283,1,8,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.,santa-fe
+23/03/2020,19,3,Argentina,Santa Fe,Esperanza,284,1,8,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.,santa-fe
+23/03/2020,19,3,Argentina,Santa Fe,Rosario,293,9,8,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.,santa-fe
+23/03/2020,19,3,Argentina,Santa Fe,Gálvez,296,3,8,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.,santa-fe
+23/03/2020,19,3,Argentina,Córdoba,,299,3,8,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,,cordoba
+23/03/2020,19,3,Argentina,Chaco,,303,4,8,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,,chaco
+23/03/2020,19,3,Argentina,Indeterminado,,303,0,8,0,52,,1453,1754,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,,chaco
+24/03/2020,20,4,Argentina,CABA,,332,29,8,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,2 casos informados en el día de ayer se reclasificaron por lo que dejaron de formar parte del total. Se resto uno random en esta ciudad,capital-federal
+24/03/2020,20,4,Argentina,Buenos Aires,,361,29,9,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,2 casos informados en el día de ayer se reclasificaron por lo que dejaron de formar parte del total. Se resto uno random en esta ciudad,buenos-aires
+24/03/2020,20,4,Argentina,Chaco,,370,9,10,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,chaco
+24/03/2020,20,4,Argentina,Córdoba,,377,7,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,cordoba
+24/03/2020,20,4,Argentina,Tierra del Fuego,,381,4,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,tierra-del-fuego
+24/03/2020,20,4,Argentina,Santa Fe,Helvecia,382,1,10,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial no son novedades son totales. Por esto viene el ruido.,santa-fe
+24/03/2020,20,4,Argentina,Santa Fe,Rafaela,383,1,10,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial no son novedades son totales. Por esto viene el ruido.,santa-fe
+24/03/2020,20,4,Argentina,Santa Fe,Roldán,384,1,10,0,,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial no son novedades son totales. Por esto viene el ruido.,santa-fe
+24/03/2020,20,4,Argentina,La Pampa,,385,1,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,la-pampa
+24/03/2020,20,4,Argentina,Neuquén,,386,1,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,neuquen
+24/03/2020,20,4,Argentina,Santa Cruz,,387,1,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,santa-cruz
+24/03/2020,20,4,Argentina,Indeterminado,,387,0,10,0,63,,1453,1838,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,,no-data
+25/03/2020,21,5,Argentina,Buenos Aires,,417,30,10,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,buenos-aires
+25/03/2020,21,5,Argentina,CABA,,438,21,11,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,capital-federal
+25/03/2020,21,5,Argentina,Córdoba,,453,15,11,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,cordoba
+25/03/2020,21,5,Argentina,Chaco,,465,12,12,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,chaco
+25/03/2020,21,5,Argentina,Santa Cruz,,470,5,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-cruz
+25/03/2020,21,5,Argentina,San Luis,,474,4,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,san-luis
+25/03/2020,21,5,Argentina,Entre Ríos,,477,3,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,entre-rios
+25/03/2020,21,5,Argentina,Mendoza,,478,1,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,mendoza
+25/03/2020,21,5,Argentina,Neuquén,,479,1,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,neuquen
+25/03/2020,21,5,Argentina,Tierra del Fuego,,480,1,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,tierra-del-fuego
+25/03/2020,21,5,Argentina,Tucumán,,482,2,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,tucuman
+25/03/2020,21,5,Argentina,Santa Fe,,504,22,12,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+25/03/2020,21,5,Argentina,Indeterminado,,504,0,12,0,72,22,1946,2448,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/25-03-20-reporte-diario-vespertino-covid-19.pdf,,no-data
+26/03/2020,22,6,Argentina,CABA,,534,30,13,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,"se suman 7casos, se compensa la diferencia entre los 20 casos del 27/3",capital-federal
+26/03/2020,22,6,Argentina,Buenos Aires,,561,27,15,2,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,buenos-aires
+26/03/2020,22,6,Argentina,Santa Fe,,573,12,15,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+26/03/2020,22,6,Argentina,Chaco,,576,3,16,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,chaco
+26/03/2020,22,6,Argentina,Córdoba,,579,3,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,cordoba
+26/03/2020,22,6,Argentina,Tierra del Fuego,,582,3,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,tierra-del-fuego
+26/03/2020,22,6,Argentina,Neuquén,,585,3,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,neuquen
+26/03/2020,22,6,Argentina,Jujuy,,587,2,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,jujuy
+26/03/2020,22,6,Argentina,Santa Cruz,,589,2,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-cruz
+26/03/2020,22,6,Argentina,Mendoza,,590,1,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,mendoza
+26/03/2020,22,6,Argentina,San Luis,,590,0,16,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,1 caso reclasificado el 28-3 a Cordoba.,san-luis
+26/03/2020,22,6,Argentina,Indeterminado,,590,0,16,0,75,25,2258,2847,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/26-03-20-reporte-diario-vespertino-covid-19.pdf,,no-data
+27/03/2020,23,7,Argentina,CABA,,617,27,17,1,,,,,transmision comunitaria,informe nacional,https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires,GCABA publico que son 20 los casos nuevos. Cremos que acá estaría la diferencia de los 16 casos menos del parte diario nacional del dia.,capital-federal
+27/03/2020,23,7,Argentina,Buenos Aires,,653,36,18,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,se asigna fallecido a bsas hasta tener novedades.,buenos-aires
+27/03/2020,23,7,Argentina,Chaco,,656,3,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,chaco
+27/03/2020,23,7,Argentina,Córdoba,,661,5,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,cordoba
+27/03/2020,23,7,Argentina,Tucumán,,667,6,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,tucuman
+27/03/2020,23,7,Argentina,Santa Fe,Rosario,673,6,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+27/03/2020,23,7,Argentina,Santa Fe,Pueblo Andino,674,1,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+27/03/2020,23,7,Argentina,Santa Fe,Venado Tuerto,675,1,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+27/03/2020,23,7,Argentina,Santa Fe,Villa Constitución,676,1,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,santa-fe
+27/03/2020,23,7,Argentina,Entre Ríos,,679,3,18,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,entre-rios
+27/03/2020,23,7,Argentina,Neuquén,,683,4,19,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,neuquen
+27/03/2020,23,7,Argentina,Mendoza,,684,1,20,1,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,mendoza
+27/03/2020,23,7,Argentina,Río Negro,,687,3,21,1,,,,,transmision comunitaria,informe nacional,https://www.rionegro.gov.ar/?contID=58359,,rio-negro
+27/03/2020,23,7,Argentina,Corrientes,,690,3,21,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,corrientes
+27/03/2020,23,7,Argentina,Santiago del Estero,,691,1,21,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,santiago-del-estero
+27/03/2020,23,7,Argentina,Misiones,Posadas,692,1,21,0,,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,,misiones
+27/03/2020,23,7,Argentina,Indeterminado,,692,0,21,0,80,33,2817,3507,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/27-03-20-reporte-diario-vespertino-covid-19.pdf,"""*El total de los casos fue de 101. Se suman en esta lista, 16 casos (anteriores) que en eldía de ayer figuraban sin localidad de residencia y hoy se agruparon en las jurisdiccionescorrespondientes.""Se asigno el fallecido con provincia indeterminada a este registro hasta que sepamos a que provincia corresponde.
+No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ubicación provincial de fallecidos por partes provinciales y otras fuentes. Resta la ubicación de 1 fallecido.",no-data
+28/03/2020,24,8,Argentina,Buenos Aires,,700,8,22,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+28/03/2020,24,8,Argentina,CABA,,718,18,23,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,capital-federal
+28/03/2020,24,8,Argentina,Santa Fe,Rafaela,722,4,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+28/03/2020,24,8,Argentina,Santa Fe,Santa Fe,726,4,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+28/03/2020,24,8,Argentina,Santa Fe,Rosario,729,3,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+28/03/2020,24,8,Argentina,Santa Fe,Santo Tomé ,730,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+28/03/2020,24,8,Argentina,Santa Fe,Chabás,731,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+28/03/2020,24,8,Argentina,Chaco,,736,5,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,chaco
+28/03/2020,24,8,Argentina,Córdoba,,737,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,1 caso reclasificado el 28-3 a Cordoba.,cordoba
+28/03/2020,24,8,Argentina,Tierra del Fuego,,741,4,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+28/03/2020,24,8,Argentina,Neuquén,Capital,742,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,neuquen
+28/03/2020,24,8,Argentina,Neuquén,Las lajas,743,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,neuquen
+28/03/2020,24,8,Argentina,Mendoza,,744,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,mendoza
+28/03/2020,24,8,Argentina,Corrientes,Capital,746,2,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,corrientes
+28/03/2020,24,8,Argentina,Indeterminado,,746,0,23,0,91,44,3215,3960,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/28-03-20-reporte-vespertino-covid-19.pdf,,no-data
+29/03/2020,25,9,Argentina,Buenos Aires,,762,16,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,buenos-aires
+29/03/2020,25,9,Argentina,CABA,,775,13,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,capital-federal
+29/03/2020,25,9,Argentina,Chaco,,779,4,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,chaco
+29/03/2020,25,9,Argentina,Santa Fe,Rosario,786,7,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,santa-fe
+29/03/2020,25,9,Argentina,Santa Fe,Gálvez,789,3,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,santa-fe
+29/03/2020,25,9,Argentina,Santa Fe,Arroyo seco,791,2,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,santa-fe
+29/03/2020,25,9,Argentina,Santa Fe,Santa Fe,792,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,santa-fe
+29/03/2020,25,9,Argentina,Córdoba,,810,18,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,cordoba
+29/03/2020,25,9,Argentina,Tierra del Fuego,,814,4,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,tierra-del-fuego
+29/03/2020,25,9,Argentina,San Juan,,815,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,san-juan
+29/03/2020,25,9,Argentina,Corrientes,,816,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,corrientes
+29/03/2020,25,9,Argentina,La Pampa,,818,2,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,la-pampa
+29/03/2020,25,9,Argentina,La Rioja,,819,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,la-rioja
+29/03/2020,25,9,Argentina,Mendoza,,820,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,mendoza
+29/03/2020,25,9,Argentina,Misiones,Puerto Iguazú,821,1,23,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,misiones
+29/03/2020,25,9,Argentina,Tucumán,,821,0,24,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,tucuman
+29/03/2020,25,9,Argentina,Indeterminado,,821,0,24,0,228,53,3580,4400,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/29-03-20_reporte_vespertino_covid_19.pdf,,no-data
+30/03/2020,26,10,Argentina,Buenos Aires,,857,36,26,2,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+30/03/2020,26,10,Argentina,CABA,,891,34,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,capital-federal
+30/03/2020,26,10,Argentina,Chaco,,903,12,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,chaco
+30/03/2020,26,10,Argentina,Santa Fe,Rosario,917,14,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Santa Fe,Villa Constitución,919,2,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Santa Fe,Armstrong,921,2,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Santa Fe,Rafaela,922,1,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Santa Fe,Funes,923,1,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Santa Fe,Roldán,924,1,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+30/03/2020,26,10,Argentina,Córdoba,,932,8,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,cordoba
+30/03/2020,26,10,Argentina,Tierra del Fuego,Ushuaia,943,11,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+30/03/2020,26,10,Argentina,Corrientes,,953,10,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,corrientes
+30/03/2020,26,10,Argentina,Entre Ríos,,956,3,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,entre-rios
+30/03/2020,26,10,Argentina,Mendoza,,959,3,26,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,mendoza
+30/03/2020,26,10,Argentina,Neuquén,Capital,967,8,27,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,neuquen
+30/03/2020,26,10,Argentina,Tucumán,,967,0,28,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,tucuman
+30/03/2020,26,10,Argentina,Indeterminado,,967,0,28,0,240,55,4065,5031,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/30-03-20-reporte-vespertino-covid-19.pdf,,no-data
+31/03/2020,27,11,Argentina,Buenos Aires,,984,17,28,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+31/03/2020,27,11,Argentina,CABA,,1003,19,28,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,capital-federal
+31/03/2020,27,11,Argentina,Chaco,,1006,3,29,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,chaco
+31/03/2020,27,11,Argentina,Córdoba,,1020,14,30,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,cordoba
+31/03/2020,27,11,Argentina,Corrientes,,1021,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,corrientes
+31/03/2020,27,11,Argentina,Mendoza,,1023,2,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,mendoza
+31/03/2020,27,11,Argentina,Misiones,Puerto Iguazú,1024,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,misiones
+31/03/2020,27,11,Argentina,Río Negro,,1025,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,rio-negro
+31/03/2020,27,11,Argentina,Santa Fe,Rosario,1032,7,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Santa Fe,1036,4,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Rafaela,1039,3,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Pujato,1041,2,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Elortondo,1043,2,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Cañada de Gomez,1044,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Pueblo Andino,1045,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,Roldán,1046,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Santa Fe,San Carlos Sud,1047,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,santa-fe
+31/03/2020,27,11,Argentina,Tierra del Fuego,,1054,7,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+31/03/2020,27,11,Argentina,Tucumán,,1055,1,30,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,tucuman
+31/03/2020,27,11,Argentina,La Rioja,,1055,0,31,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,la-rioja
+31/03/2020,27,11,Argentina,Indeterminado,,1055,0,31,0,248,55,4597,5651,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/31-03-20-reporte-vespertino-covid-19.pdf,,no-data
+1/04/2020,28,12,Argentina,Buenos Aires,,1065,10,33,2,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,buenos-aires
+1/04/2020,28,12,Argentina,CABA,,1075,10,34,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,capital-federal
+1/04/2020,28,12,Argentina,Chaco,,1087,12,34,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,chaco
+1/04/2020,28,12,Argentina,Córdoba,,1093,6,34,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,cordoba
+1/04/2020,28,12,Argentina,Corrientes,,1094,1,34,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,corrientes
+1/04/2020,28,12,Argentina,Entre Ríos,,1095,1,34,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,entre-rios
+1/04/2020,28,12,Argentina,Mendoza,,1105,10,34,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,mendoza
+1/04/2020,28,12,Argentina,Neuquén,,1109,4,35,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,neuquen
+1/04/2020,28,12,Argentina,Salta,,1111,2,35,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,salta
+1/04/2020,28,12,Argentina,San Luis,,1112,1,35,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,san-luis
+1/04/2020,28,12,Argentina,Santa Cruz,,1122,10,35,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,santa-cruz
+1/04/2020,28,12,Argentina,Santa Fe,Rosario,1127,5,36,1,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,Villa Constitución,1128,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,Funes,1129,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,Villa Gobernador Gálvez,1130,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,San Genaro,1131,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,Gálvez,1132,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Santa Fe,Venado Tuerto,1133,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.santafe.gob.ar/index.php/web/content/download/257691/1357446/file/Parte%20MSSF%20Coronavirus%2001-04-2020%2019%20hs.pdf,,santa-fe
+1/04/2020,28,12,Argentina,Tucumán,,1134,1,36,0,,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,tucuman
+1/04/2020,28,12,Argentina,Indeterminado,,1134,0,36,0,256,72,5144,6277,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,no-data
+2/04/2020,29,13,Argentina,Buenos Aires,,1170,36,38,2,,,,,transmision comunitaria,,,,buenos-aires
+2/04/2020,29,13,Argentina,CABA,,1194,24,38,0,,,,,transmision comunitaria,,,,capital-federal
+2/04/2020,29,13,Argentina,Chaco,,1197,3,39,1,,,,,transmision comunitaria,,,,chaco
+2/04/2020,29,13,Argentina,Córdoba,,1213,16,39,0,,,,,transmision comunitaria,,,,cordoba
+2/04/2020,29,13,Argentina,Corrientes,,1214,1,39,0,,,,,transmision comunitaria,,,,corrientes
+2/04/2020,29,13,Argentina,Entre Ríos,,1216,2,39,0,,,,,transmision comunitaria,,,,entre-rios
+2/04/2020,29,13,Argentina,Jujuy,,1218,2,39,0,,,,,transmision comunitaria,,,,jujuy
+2/04/2020,29,13,Argentina,La Rioja,,1221,3,39,0,,,,,transmision comunitaria,,,,la-rioja
+2/04/2020,29,13,Argentina,Neuquén,,1225,4,39,0,,,,,transmision comunitaria,,,,neuquen
+2/04/2020,29,13,Argentina,San Luis,,1227,2,39,0,,,,,transmision comunitaria,,,,san-luis
+2/04/2020,29,13,Argentina,Santa Cruz,,1229,2,39,0,,,,,transmision comunitaria,,,,santa-cruz
+2/04/2020,29,13,Argentina,Santa Fe,Rafaela,1233,4,39,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257700/1357480/file/Parte%20MSSF%20Coronavirus%2002-04-2020%2019%20hs.pdf,,santa-fe
+2/04/2020,29,13,Argentina,Santa Fe,Rosario,1235,2,39,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257700/1357480/file/Parte%20MSSF%20Coronavirus%2002-04-2020%2019%20hs.pdf,,santa-fe
+2/04/2020,29,13,Argentina,Santa Fe,San Lorenzo,1236,1,39,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257700/1357480/file/Parte%20MSSF%20Coronavirus%2002-04-2020%2019%20hs.pdf,,santa-fe
+2/04/2020,29,13,Argentina,Santa Fe,Funes,1237,1,39,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257700/1357480/file/Parte%20MSSF%20Coronavirus%2002-04-2020%2019%20hs.pdf,,santa-fe
+2/04/2020,29,13,Argentina,Santiago del Estero,,1238,1,39,0,,,,,transmision comunitaria,,,,santiago-del-estero
+2/04/2020,29,13,Argentina,Tierra del Fuego,,1262,24,39,0,,,,,transmision comunitaria,,,,tierra-del-fuego
+2/04/2020,29,13,Argentina,Tucumán,,1266,4,39,0,,,,,transmision comunitaria,,,,tucuman
+2/04/2020,29,13,Argentina,Mendoza,,1266,0,40,1,,,,,transmision comunitaria,,,,mendoza
+2/04/2020,29,13,Argentina,Indeterminado,,1266,0,40,0,266,82,6120,7385,transmision comunitaria,,,,no-data
+3/04/2020,30,14,Argentina,Buenos Aires,,1288,22,43,3,,,,,transmision comunitaria,,,,buenos-aires
+3/04/2020,30,14,Argentina,CABA,,1316,28,43,0,,,,,transmision comunitaria,,,,capital-federal
+3/04/2020,30,14,Argentina,Chaco,,1324,8,44,1,,,,,transmision comunitaria,,,,chaco
+3/04/2020,30,14,Argentina,Córdoba,,1338,14,44,0,,,,,transmision comunitaria,,,,cordoba
+3/04/2020,30,14,Argentina,Entre Ríos,,1340,2,44,0,,,,,transmision comunitaria,,,,entre-rios
+3/04/2020,30,14,Argentina,Mendoza,,1342,2,45,1,,,,,transmision comunitaria,,,,mendoza
+3/04/2020,30,14,Argentina,Neuquén,,1343,1,45,0,,,,,transmision comunitaria,,,,neuquen
+3/04/2020,30,14,Argentina,Río Negro,,1344,1,45,0,,,,,transmision comunitaria,,,,rio-negro
+3/04/2020,30,14,Argentina,San Luis,,1345,1,45,0,,,,,transmision comunitaria,,,,san-luis
+3/04/2020,30,14,Argentina,Santa Fe,Rosario,1352,7,45,0,,,,,transmision comunitaria,,,,santa-fe
+3/04/2020,30,14,Argentina,Santa Fe,Rafaela,1353,1,45,0,,,,,transmision comunitaria,,,,santa-fe
+3/04/2020,30,14,Argentina,Tierra del Fuego,,1354,1,45,0,,,,,transmision comunitaria,,,,tierra-del-fuego
+3/04/2020,30,14,Argentina,Tucumán,,1354,0,46,1,,,,,transmision comunitaria,,,,tucuman
+3/04/2020,30,14,Argentina,Indeterminado,,1354,0,46,0,279,86,7135,8488,transmision comunitaria,,,,no-data
+4/04/2020,31,15,Argentina,Buenos Aires,,1380,26,47,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+4/04/2020,31,15,Argentina,CABA,,1414,34,48,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,capital-federal
+4/04/2020,31,15,Argentina,Chaco,,1422,8,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,chaco
+4/04/2020,31,15,Argentina,Córdoba,,1425,3,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,cordoba
+4/04/2020,31,15,Argentina,La Rioja,,1427,2,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,la-rioja
+4/04/2020,31,15,Argentina,Neuquén,,1431,4,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,neuquen
+4/04/2020,31,15,Argentina,Río Negro,,1436,5,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,rio-negro
+4/04/2020,31,15,Argentina,Santa Cruz,,1437,1,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
+4/04/2020,31,15,Argentina,Santa Fe,Rosario,1440,3,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-fe
+4/04/2020,31,15,Argentina,Santa Fe,Santa Fe,1441,1,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-fe
+4/04/2020,31,15,Argentina,Santa Fe,Firmat,1442,1,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-fe
+4/04/2020,31,15,Argentina,Santiago del Estero,,1443,1,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santiago-del-estero
+4/04/2020,31,15,Argentina,Tierra del Fuego,,1451,8,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+4/04/2020,31,15,Argentina,Tucumán,,1452,1,48,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tucuman
+4/04/2020,31,15,Argentina,Indeterminado,,1452,0,48,0,280,87,7494,8945,transmision comunitaria,,,,no-data
+5/04/2020,32,16,Argentina,Buenos Aires,,1485,33,49,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+5/04/2020,32,16,Argentina,CABA,,1517,32,49,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,capital-federal
+5/04/2020,32,16,Argentina,Córdoba,,1522,5,50,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,cordoba
+5/04/2020,32,16,Argentina,Entre Ríos,,1523,1,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,entre-rios
+5/04/2020,32,16,Argentina,La Rioja,,1525,2,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,la-rioja
+5/04/2020,32,16,Argentina,Mendoza,,1527,2,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,mendoza
+5/04/2020,32,16,Argentina,Neuquén,,1538,11,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,neuquen
+5/04/2020,32,16,Argentina,Río Negro,,1540,2,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,rio-negro
+5/04/2020,32,16,Argentina,Santa Cruz,,1541,1,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
+5/04/2020,32,16,Argentina,Santa Fe,Rosario,1546,5,50,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257713/1357525/file/Parte%20MSSF%20Coronavirus%2005-04-2020%2019%20hs.pdf,,santa-fe
+5/04/2020,32,16,Argentina,Santa Fe,"Llambi Campbell,",1549,3,50,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257713/1357525/file/Parte%20MSSF%20Coronavirus%2005-04-2020%2019%20hs.pdf,,santa-fe
+5/04/2020,32,16,Argentina,Santa Fe,Santo Tome,1550,1,50,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257713/1357525/file/Parte%20MSSF%20Coronavirus%2005-04-2020%2019%20hs.pdf,,santa-fe
+5/04/2020,32,16,Argentina,Santa Fe,Villa Constitución,1551,1,50,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257713/1357525/file/Parte%20MSSF%20Coronavirus%2005-04-2020%2019%20hs.pdf,,santa-fe
+5/04/2020,32,16,Argentina,Santa Fe,Venado Tuerto,1552,1,50,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257713/1357525/file/Parte%20MSSF%20Coronavirus%2005-04-2020%2019%20hs.pdf,,santa-fe
+5/04/2020,32,16,Argentina,Tierra del Fuego,,1555,3,50,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+5/04/2020,32,16,Argentina,Indeterminado,,1555,0,50,0,325,94,8125,9679,transmision comunitaria,,,,no-data
+6/04/2020,33,17,Argentina,Buenos Aires,,1567,12,52,2,,,,,transmision comunitaria,,,se asigna 1 por +3 del 6 abril,buenos-aires
+6/04/2020,33,17,Argentina,CABA,,1584,17,55,3,,,,,transmision comunitaria,,,,capital-federal
+6/04/2020,33,17,Argentina,Chaco,,1588,4,56,1,,,,,transmision comunitaria,,,se asigna 1 por +3 del 6 abril,chaco
+6/04/2020,33,17,Argentina,Córdoba,,1595,7,56,0,,,,,transmision comunitaria,,,,cordoba
+6/04/2020,33,17,Argentina,Corrientes,,1597,2,56,0,,,,,transmision comunitaria,,,,corrientes
+6/04/2020,33,17,Argentina,La Rioja,,1598,1,56,0,,,,,transmision comunitaria,,,,la-rioja
+6/04/2020,33,17,Argentina,Mendoza,,1599,1,56,0,,,,,transmision comunitaria,,,,mendoza
+6/04/2020,33,17,Argentina,Neuquén,,1605,6,57,1,,,,,transmision comunitaria,,,,neuquen
+6/04/2020,33,17,Argentina,Río Negro,,1607,2,57,0,,,,,transmision comunitaria,,,,rio-negro
+6/04/2020,33,17,Argentina,San Luis,,1608,1,57,0,,,,,transmision comunitaria,,,,san-luis
+6/04/2020,33,17,Argentina,Santa Fe,Rosario,1611,3,57,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257720/1357555/file/Parte%20MSSF%20Coronavirus%2006-04-2020%2019%20hs..pdf,,santa-fe
+6/04/2020,33,17,Argentina,Santa Fe,Santa Fe,1614,3,57,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257720/1357555/file/Parte%20MSSF%20Coronavirus%2006-04-2020%2019%20hs..pdf,"El parte provincial dice 7 infectados, el parte nacional dice 8. Se prioriza parte Nacional asginando 1 caso extra a Santa Fe, SantaFe",santa-fe
+6/04/2020,33,17,Argentina,Santa Fe,Villa Constitución,1616,2,57,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257720/1357555/file/Parte%20MSSF%20Coronavirus%2006-04-2020%2019%20hs..pdf,,santa-fe
+6/04/2020,33,17,Argentina,Santiago del Estero,,1621,5,57,0,,,,,transmision comunitaria,,,correccion se resta caso del 7-4-2020,santiago-del-estero
+6/04/2020,33,17,Argentina,Tierra del Fuego,,1623,2,57,0,,,,,transmision comunitaria,,,,tierra-del-fuego
+6/04/2020,33,17,Argentina,Tucumán,,1628,5,57,0,,,,,transmision comunitaria,,,,tucuman
+6/04/2020,33,17,Argentina,Indeterminado,,1628,0,57,0,338,96,8707,10335,transmision comunitaria,,,,no-data
+7/04/2020,34,18,Argentina,Buenos Aires,,1662,34,61,4,,,,,transmision comunitaria,,,,buenos-aires
+7/04/2020,34,18,Argentina,CABA,,1686,24,63,2,,,,,transmision comunitaria,,,,capital-federal
+7/04/2020,34,18,Argentina,Chaco,,1690,4,63,0,,,,,transmision comunitaria,,,,chaco
+7/04/2020,34,18,Argentina,Córdoba,,1694,4,63,0,,,,,transmision comunitaria,,,,cordoba
+7/04/2020,34,18,Argentina,Entre Ríos,,1695,1,63,0,,,,,transmision comunitaria,,,,entre-rios
+7/04/2020,34,18,Argentina,Mendoza,,1697,2,64,1,,,,,transmision comunitaria,,,,mendoza
+7/04/2020,34,18,Argentina,Neuquén,,1700,3,64,0,,,,,transmision comunitaria,,,,neuquen
+7/04/2020,34,18,Argentina,Río Negro,,1702,2,64,0,,,,,transmision comunitaria,,,,rio-negro
+7/04/2020,34,18,Argentina,Santa Cruz,,1710,8,64,0,,,,,transmision comunitaria,,,,santa-cruz
+7/04/2020,34,18,Argentina,Santa Fe,Granadero Baigorria,1711,1,64,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257725/1357571/file/Parte%20MSSF%20Coronavirus%2007-04-2020%2019%20hs.pdf,,santa-fe
+7/04/2020,34,18,Argentina,Santa Fe,Las Rosas,1712,1,64,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257725/1357571/file/Parte%20MSSF%20Coronavirus%2007-04-2020%2019%20hs.pdf,,santa-fe
+7/04/2020,34,18,Argentina,Santa Fe,Rosario,1713,1,64,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257725/1357571/file/Parte%20MSSF%20Coronavirus%2007-04-2020%2019%20hs.pdf,,santa-fe
+7/04/2020,34,18,Argentina,Tierra del Fuego,,1715,2,64,0,,,,,transmision comunitaria,,,,tierra-del-fuego
+7/04/2020,34,18,Argentina,Tucumán,,1716,1,64,0,,,,,transmision comunitaria,,,,tucuman
+7/04/2020,34,18,Argentina,Indeterminado,,1716,0,64,0,358,98,10020,11735,transmision comunitaria,,,,no-data
+8/04/2020,35,19,Argentina,Buenos Aires,,1733,17,65,1,,,,,transmision comunitaria,,,,buenos-aires
+8/04/2020,35,19,Argentina,CABA,,1751,18,67,2,,,,,transmision comunitaria,,,,capital-federal
+8/04/2020,35,19,Argentina,Chaco,,1766,15,67,0,,,,,transmision comunitaria,,,,chaco
+8/04/2020,35,19,Argentina,Córdoba,,1767,1,67,0,,,,,transmision comunitaria,,,,cordoba
+8/04/2020,35,19,Argentina,La Pampa,,1768,1,67,0,,,,,transmision comunitaria,,,,la-pampa
+8/04/2020,35,19,Argentina,Mendoza,,1774,6,67,0,,,,,transmision comunitaria,,,,mendoza
+8/04/2020,35,19,Argentina,Neuquén,,1791,17,68,1,,,,,transmision comunitaria,,,,neuquen
+8/04/2020,35,19,Argentina,Río Negro,,1792,1,68,0,,,,,transmision comunitaria,,,,rio-negro
+8/04/2020,35,19,Argentina,Santa Fe,Rosario,1793,1,68,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257748/1357646/file/Parte%20MSSF%20Coronavirus%2008-04-2020%2019%20hs.pdf,,santa-fe
+8/04/2020,35,19,Argentina,Santa Fe,Rosario,1794,1,68,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257748/1357646/file/Parte%20MSSF%20Coronavirus%2008-04-2020%2019%20hs.pdf,,santa-fe
+8/04/2020,35,19,Argentina,Tierra del Fuego,,1796,2,68,0,,,,,transmision comunitaria,,,,tierra-del-fuego
+8/04/2020,35,19,Argentina,Tucumán,,1796,0,69,1,,,,,transmision comunitaria,,,,tucuman
+8/04/2020,35,19,Argentina,Indeterminado,,1796,0,69,0,365,98,11385,13180,transmision comunitaria,,,,no-data
+9/04/2020,36,20,Argentina,Buenos Aires,,1824,28,75,6,,,,,transmision comunitaria,,,,buenos-aires
+9/04/2020,36,20,Argentina,CABA,,1847,23,81,6,,,,,transmision comunitaria,,,,capital-federal
+9/04/2020,36,20,Argentina,Río Negro,,1860,13,81,0,,,,,transmision comunitaria,,,,rio-negro
+9/04/2020,36,20,Argentina,Santa Fe,Elortondo,1862,2,81,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Gálvez,1864,2,81,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Venado Tuerto,1865,1,81,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Santa Fe,1866,1,82,1,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Oliveros,1867,1,82,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Neuquén,,1874,7,82,0,,,,,transmision comunitaria,,,,neuquen
+9/04/2020,36,20,Argentina,Chaco,,1880,6,83,1,,,,,transmision comunitaria,,,,chaco
+9/04/2020,36,20,Argentina,Córdoba,,1885,5,83,0,,,,,transmision comunitaria,,,,cordoba
+9/04/2020,36,20,Argentina,La Rioja,,1890,5,83,0,,,,,transmision comunitaria,,,,la-rioja
+9/04/2020,36,20,Argentina,Entre Ríos,,1891,1,83,0,,,,,transmision comunitaria,,,el dia 12/04/2020  se le restó 1 caso a entre rios,entre-rios
+9/04/2020,36,20,Argentina,Mendoza,,1893,2,83,0,,,,,transmision comunitaria,,,,mendoza
+9/04/2020,36,20,Argentina,Tucumán,,1894,1,83,0,,,,,transmision comunitaria,,,,tucuman
+9/04/2020,36,20,Argentina,Indeterminado,,1894,0,83,0,375,,,,transmision comunitaria,,,,no-data
+10/04/2020,37,21,Argentina,Buenos Aires,,1913,19,84,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,buenos-aires
+10/04/2020,37,21,Argentina,CABA,,1924,11,85,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,capital-federal
+10/04/2020,37,21,Argentina,Chaco,,1929,5,85,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,chaco
+10/04/2020,37,21,Argentina,Córdoba,,1942,13,85,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,cordoba
+10/04/2020,37,21,Argentina,La Pampa,,1943,1,85,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,la-pampa
+10/04/2020,37,21,Argentina,Mendoza,,1952,9,85,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,mendoza
+10/04/2020,37,21,Argentina,Neuquén,Loncopué,1959,7,85,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,neuquen
+10/04/2020,37,21,Argentina,Río Negro,,1966,7,86,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,rio-negro
+10/04/2020,37,21,Argentina,Santa Cruz,,1972,6,86,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,santa-cruz
+10/04/2020,37,21,Argentina,Santa Fe,Rosario,1973,1,86,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257767/1357705/file/Parte%20MSSF%20Coronavirus%2010-04-2020%2019%20hs.pdf,,santa-fe
+10/04/2020,37,21,Argentina,Tierra del Fuego,Ushuaia,1975,2,86,0,,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+10/04/2020,37,21,Argentina,Indeterminado,,1975,0,86,0,440,115,13584,15559,transmision comunitaria,,,,no-data
+11/04/2020,38,22,Argentina,Buenos Aires,,2012,37,90,4,,,,,transmision comunitaria,,,,buenos-aires
+11/04/2020,38,22,Argentina,CABA,,2058,46,93,3,,,,,transmision comunitaria,,,,capital-federal
+11/04/2020,38,22,Argentina,Córdoba,,2090,32,93,0,,,,,transmision comunitaria,,,27 de geriatrico,cordoba
+11/04/2020,38,22,Argentina,La Rioja,,2094,4,93,0,,,,,transmision comunitaria,,,,la-rioja
+11/04/2020,38,22,Argentina,Mendoza,,2099,5,93,0,,,,,transmision comunitaria,,,,mendoza
+11/04/2020,38,22,Argentina,Neuquén,Neuquén,2100,1,93,0,,,,,transmision comunitaria,,,,neuquen
+11/04/2020,38,22,Argentina,Río Negro,,2123,23,93,0,,,,,transmision comunitaria,,,,rio-negro
+11/04/2020,38,22,Argentina,San Juan,,2124,1,93,0,,,,,transmision comunitaria,,,,san-juan
+11/04/2020,38,22,Argentina,Santa Cruz,,2127,3,93,0,,,,,transmision comunitaria,,,,santa-cruz
+11/04/2020,38,22,Argentina,Santa Fe,Rosario,2130,3,93,0,,,,,transmision comunitaria,,,,santa-fe
+11/04/2020,38,22,Argentina,Santiago del Estero,,2133,3,93,0,,,,,transmision comunitaria,,,,santiago-del-estero
+11/04/2020,38,22,Argentina,Tierra del Fuego,Ushuaia,2136,3,93,0,,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+11/04/2020,38,22,Argentina,Tierra del Fuego,Malvinas,2141,5,93,0,,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+11/04/2020,38,22,Argentina,Tucumán,,2142,1,93,0,,,,,transmision comunitaria,,,,tucuman
+11/04/2020,38,22,Argentina,Indeterminado,,2142,0,93,0,468,83,15016,17158,transmision comunitaria,,,,no-data
+12/04/2020,39,23,Argentina,Buenos Aires,,2170,28,97,4,,,,,transmision comunitaria,,,,buenos-aires
+12/04/2020,39,23,Argentina,CABA,,2178,8,98,1,,,,,transmision comunitaria,,,,capital-federal
+12/04/2020,39,23,Argentina,Chaco,,2179,1,98,0,,,,,transmision comunitaria,,,,chaco
+12/04/2020,39,23,Argentina,Córdoba,,2184,5,99,1,,,,,transmision comunitaria,,,,cordoba
+12/04/2020,39,23,Argentina,La Rioja,,2185,1,99,0,,,,,transmision comunitaria,,,,la-rioja
+12/04/2020,39,23,Argentina,Mendoza,,2188,3,99,0,,,,,transmision comunitaria,,,,mendoza
+12/04/2020,39,23,Argentina,Neuquén,Loncopué,2189,1,99,0,,,,,transmision comunitaria,,,,neuquen
+12/04/2020,39,23,Argentina,Río Negro,,2202,13,99,0,,,,,transmision comunitaria,,,,rio-negro
+12/04/2020,39,23,Argentina,Santa Fe,Rosario,2205,3,99,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257774/1357734/file/Parte%20MSSF%20Coronavirus%2012-04-2020%2019%20hs.pdf,,santa-fe
+12/04/2020,39,23,Argentina,Tierra del Fuego,Ushuaia,2209,4,99,0,,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+12/04/2020,39,23,Argentina,Indeterminado,,2209,0,99,0,515,113,15924,18132,transmision comunitaria,,,,no-data
+13/04/2020,40,24,Argentina,Buenos Aires,,2238,29,100,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,buenos-aires
+13/04/2020,40,24,Argentina,CABA,,2248,10,101,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,capital-federal
+13/04/2020,40,24,Argentina,Chaco,,2251,3,101,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,chaco
+13/04/2020,40,24,Argentina,Córdoba,,2255,4,102,1,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,cordoba
+13/04/2020,40,24,Argentina,Corrientes,,2262,7,102,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,corrientes
+13/04/2020,40,24,Argentina,La Rioja,,2265,3,102,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,la-rioja
+13/04/2020,40,24,Argentina,Mendoza,Mendoza,2267,2,102,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,mendoza
+13/04/2020,40,24,Argentina,Neuquén,Loncopué,2269,2,102,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,neuquen
+13/04/2020,40,24,Argentina,Río Negro,,2272,3,102,0,,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/14-04-20_reporte_matutino_covid_19.pdf,,rio-negro
+13/04/2020,40,24,Argentina,Santa Fe,Rafaela,2273,1,102,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257787/1357775/file/Parte%20MSSF%20Coronavirus%2013-04-2020%2019%20hs.pdf,,santa-fe
+13/04/2020,40,24,Argentina,Santa Fe,Rosario,2274,1,102,0,,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257787/1357775/file/Parte%20MSSF%20Coronavirus%2013-04-2020%2019%20hs.pdf,,santa-fe
+13/04/2020,40,24,Argentina,Tierra del Fuego,Ushuaia,2278,4,102,0,,,,,transmision comunitaria,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+13/04/2020,40,24,Argentina,Indeterminado,,2278,0,102,0,559,116,17192,19469,transmision comunitaria,,,,no-data
+14/04/2020,41,25,Argentina,Buenos Aires,,2344,66,104,2,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,buenos-aires
+14/04/2020,41,25,Argentina,CABA,,2366,22,106,2,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,capital-federal
+14/04/2020,41,25,Argentina,Chaco,,2397,31,107,1,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chaco
+14/04/2020,41,25,Argentina,Córdoba,,2409,12,108,1,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,cordoba
+14/04/2020,41,25,Argentina,Corrientes,,2409,0,108,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,se quita 1 caso confirmado en el parte del 15/4/2020,corrientes
+14/04/2020,41,25,Argentina,La Rioja,,2415,6,108,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,la-rioja
+14/04/2020,41,25,Argentina,Mendoza,Mendoza,2418,3,108,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,mendoza
+14/04/2020,41,25,Argentina,Neuquén,Las Lajas,2420,2,108,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,neuquen
+14/04/2020,41,25,Argentina,Río Negro,,2433,13,108,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,rio-negro
+14/04/2020,41,25,Argentina,Santa Fe,Roldán,2434,1,108,0,,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257795/1357808/file/Parte%20MSSF%20Coronavirus%2014-04-2020%2019%20hs.pdf,,santa-fe
+14/04/2020,41,25,Argentina,Santa Fe,Oliveros,2435,1,108,0,,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257795/1357808/file/Parte%20MSSF%20Coronavirus%2014-04-2020%2019%20hs.pdf,,santa-fe
+14/04/2020,41,25,Argentina,Tierra del Fuego,Ushuaia,2437,2,108,0,,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+14/04/2020,41,25,Argentina,Tierra del Fuego,Malvinas,2443,6,108,0,,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+14/04/2020,41,25,Argentina,Indeterminado,,2443,0,108,0,596,117,18428,20871,transmision comunitaria,,,,no-data
+15/04/2020,42,26,Argentina,Buenos Aires,,2505,62,109,1,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,buenos-aires
+15/04/2020,42,26,Argentina,CABA,,2535,30,113,4,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,capital-federal
+15/04/2020,42,26,Argentina,Chaco,,2542,7,113,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chaco
+15/04/2020,42,26,Argentina,Chubut,,2543,1,113,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,chubut
+15/04/2020,42,26,Argentina,Córdoba,,2549,6,114,1,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,cordoba
+15/04/2020,42,26,Argentina,La Rioja,,2552,3,115,1,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,la-rioja
+15/04/2020,42,26,Argentina,Mendoza,Malargüe,2553,1,115,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,mendoza
+15/04/2020,42,26,Argentina,Neuquén,Neuquén,2554,1,115,0,,,,,,,https://www.neuqueninforma.gob.ar/coronavirus-nuevo-comunicado-del-comite-de-emergencia-provincial-15-04-2020-2000/,,neuquen
+15/04/2020,42,26,Argentina,Río Negro,,2566,12,115,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,,rio-negro
+15/04/2020,42,26,Argentina,Salta,,2566,0,115,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/15-04-20_reporte-matutino-covid-19.pdf,se quita 1 caso confirmado en el parte del 16/4/2020,salta
+15/04/2020,42,26,Argentina,Santa Fe,Rosario,2567,1,115,0,,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257799/1357821/file/Parte%20MSSF%20Coronavirus%2015-04-2020%2019%20hs%20(1).pdf,,santa-fe
+15/04/2020,42,26,Argentina,Santa Fe,Cayastá,2568,1,115,0,,,,,,,https://www.santafe.gob.ar/index.php/web/content/download/257799/1357821/file/Parte%20MSSF%20Coronavirus%2015-04-2020%2019%20hs%20(1).pdf,,santa-fe
+15/04/2020,42,26,Argentina,Tierra del Fuego,Ushuaia,2571,3,115,0,,,,,,,https://www.facebook.com/saludtdf,,tierra-del-fuego
+15/04/2020,42,26,Argentina,Indeterminado,,2571,0,115,0,631,121,20172,22743,transmision comunitaria,,,,no-data
+16/04/2020,43,27,Argentina,Buenos Aires,,2601,30,118,3,,,,,,,,,buenos-aires
+16/04/2020,43,27,Argentina,CABA,,2616,15,120,2,,,,,,,,,capital-federal
+16/04/2020,43,27,Argentina,Chaco,,2627,11,121,1,,,,,,,,,chaco
+16/04/2020,43,27,Argentina,Chubut,,2628,1,121,0,,,,,,,,se quita 1 caso confirmado en el parte del 17/4/2020,chubut
+16/04/2020,43,27,Argentina,Córdoba,,2641,13,121,0,,,,,,,,,cordoba
+16/04/2020,43,27,Argentina,Entre Ríos,,2642,1,121,0,,,,,,,,,entre-rios
+16/04/2020,43,27,Argentina,La Rioja,,2645,3,121,0,,,,,,,,,la-rioja
+16/04/2020,43,27,Argentina,Mendoza,,2650,5,122,1,,,,,,,,,mendoza
+16/04/2020,43,27,Argentina,Neuquén,,2651,1,122,0,,,,,,,,,neuquen
+16/04/2020,43,27,Argentina,Río Negro,,2660,9,122,0,,,,,,,,,rio-negro
+16/04/2020,43,27,Argentina,Santa Fe,Rosario,2663,3,122,0,,,,,,,,,santa-fe
+16/04/2020,43,27,Argentina,Tierra del Fuego,Ushuaia,2670,7,122,0,,,,,,,,,tierra-del-fuego
+16/04/2020,43,27,Argentina,Indeterminado,,2670,0,122,0,666,126,21819,24488,transmision comunitaria,,,,no-data
+17/04/2020,44,28,Argentina,Buenos Aires,,2704,34,125,3,,,,,,,,,buenos-aires
+17/04/2020,44,28,Argentina,CABA,,2718,14,126,1,,,,,,,,,capital-federal
+17/04/2020,44,28,Argentina,Chaco,,2740,22,126,0,,,,,,,,,chaco
+17/04/2020,44,28,Argentina,Córdoba,,2746,6,126,0,,,,,,,,,cordoba
+17/04/2020,44,28,Argentina,La Rioja,,2747,1,127,1,,,,,,,,,la-rioja
+17/04/2020,44,28,Argentina,Mendoza,,2748,1,129,2,,,,,,,,,mendoza
+17/04/2020,44,28,Argentina,Misiones,San Vicente,2749,1,129,0,,,,,,,,,misiones
+17/04/2020,44,28,Argentina,Neuquén,,2750,1,129,0,,,,,,,,,neuquen
+17/04/2020,44,28,Argentina,Río Negro,,2751,1,129,0,,,,,,,,,rio-negro
+17/04/2020,44,28,Argentina,Santa Fe,Rosario,2757,6,129,0,,,,,,,,,santa-fe
+17/04/2020,44,28,Argentina,Tierra del Fuego,,2759,2,129,0,,,,,,,,,tierra-del-fuego
+17/04/2020,44,28,Argentina,Indeterminado,,2759,0,129,0,685,127,23449,26207,transmision comunitaria,,,,no-data
+18/04/2020,45,29,Argentina,Buenos Aires,,2790,31,131,2,,,,,,,,,buenos-aires
+18/04/2020,45,29,Argentina,CABA,,2804,14,132,1,,,,,,,,,capital-federal
+18/04/2020,45,29,Argentina,Chaco,,2828,24,132,0,,,,,,,,,chaco
+18/04/2020,45,29,Argentina,Córdoba,,2830,2,132,0,,,,,,,,,cordoba
+18/04/2020,45,29,Argentina,Misiones,San Vicente,2831,1,132,0,,,,,,,,,misiones
+18/04/2020,45,29,Argentina,Neuquén,,2834,3,132,0,,,,,,,,,neuquen
+18/04/2020,45,29,Argentina,Río Negro,,2837,3,132,0,,,,,,,,,rio-negro
+18/04/2020,45,29,Argentina,Santa Fe,Roldán,2838,1,132,0,,,,,,,,,santa-fe
+18/04/2020,45,29,Argentina,Santa Fe,Rosario,2839,1,132,0,,,,,,,,,santa-fe
+18/04/2020,45,29,Argentina,Santa Fe,Oliveros,2840,1,132,0,,,,,,,,,santa-fe
+18/04/2020,45,29,Argentina,Indeterminado,,2840,0,132,0,709,123,24756,27595,transmision comunitaria,,,,no-data
+19/04/2020,46,30,Argentina,Buenos Aires,,2888,48,132,0,,,,,,,,,buenos-aires
+19/04/2020,46,30,Argentina,CABA,,2903,15,132,0,,,,,,,,,capital-federal
+19/04/2020,46,30,Argentina,Chaco,,2908,5,133,1,,,,,,,,,chaco
+19/04/2020,46,30,Argentina,Chubut,,2908,0,133,0,,,,,,,,hotfix se quita el caso y se suma a Tierra del Fuego,chubut
+19/04/2020,46,30,Argentina,Córdoba,,2919,11,133,0,,,,,,,,,cordoba
+19/04/2020,46,30,Argentina,La Rioja,,2923,4,133,0,,,,,,,,,la-rioja
+19/04/2020,46,30,Argentina,Mendoza,,2926,3,134,1,,,,,,,,,mendoza
+19/04/2020,46,30,Argentina,Neuquén,,2929,3,134,0,,,,,,,,,neuquen
+19/04/2020,46,30,Argentina,Río Negro,,2937,8,134,0,,,,,,,,,rio-negro
+19/04/2020,46,30,Argentina,Santa Fe,Rosario,2937,0,134,0,,,,,,,,,santa-fe
+19/04/2020,46,30,Argentina,Tierra del Fuego,,2941,4,134,0,,,,,,,,hotfix se quita el caso y se suma a Tierra del Fuego,tierra-del-fuego
+19/04/2020,46,30,Argentina,Indeterminado,,2941,0,134,0,737,126,26122,29063,transmision comunitaria,,,,no-data
+20/04/2020,47,31,Argentina,Buenos Aires,,2983,42,135,1,,,,,,,,,buenos-aires
+20/04/2020,47,31,Argentina,CABA,,3005,22,135,0,,,,,,,,,capital-federal
+20/04/2020,47,31,Argentina,Chaco,,3010,5,136,1,,,,,,,,,chaco
+20/04/2020,47,31,Argentina,Corrientes,,3013,3,136,0,,,,,,,,,corrientes
+20/04/2020,47,31,Argentina,Mendoza,,3014,1,137,1,,,,,,,,,mendoza
+20/04/2020,47,31,Argentina,Neuquén,,3017,3,137,0,,,,,,,,,neuquen
+20/04/2020,47,31,Argentina,Río Negro,,3027,10,140,3,,,,,,,,,rio-negro
+20/04/2020,47,31,Argentina,Santa Cruz,,3028,1,140,0,,,,,,,,,santa-cruz
+20/04/2020,47,31,Argentina,Santa Fe,Venado Tuerto,3030,2,140,0,,,,,,,,,santa-fe
+20/04/2020,47,31,Argentina,Tucumán,,3031,1,140,0,,,,,,,,,tucuman
+20/04/2020,47,31,Argentina,Córdoba,,3031,0,142,2,,,,,,,,,cordoba
+20/04/2020,47,31,Argentina,La Rioja,,3031,0,142,0,,,,,,,,,la-rioja
+20/04/2020,47,31,Argentina,Indeterminado,,3031,0,142,0,840,129,27732,30763,transmision comunitaria,,,,no-data
+21/04/2020,48,32,Argentina,Buenos Aires,,3092,61,146,4,,,,,,,,,buenos-aires
+21/04/2020,48,32,Argentina,CABA,,3125,33,150,4,,,,,,,,,capital-federal
+21/04/2020,48,32,Argentina,Chaco,,3130,5,150,0,,,,,,,,,chaco
+21/04/2020,48,32,Argentina,La Rioja,,3131,1,152,2,,,,,,,,,la-rioja
+21/04/2020,48,32,Argentina,Río Negro,,3142,11,152,0,,,,,,,,,rio-negro
+21/04/2020,48,32,Argentina,Santa Fe,Rafaela,3143,1,152,0,,,,,,,,,santa-fe
+21/04/2020,48,32,Argentina,Tierra del Fuego,,3144,1,152,0,,,,,,,,,tierra-del-fuego
+21/04/2020,48,32,Argentina,Indeterminado,,3144,0,152,0,872,131,29829,32973,transmision comunitaria,,,,no-data
+22/04/2020,49,33,Argentina,Buenos Aires,,3205,61,157,5,,,,,,,,,buenos-aires
+22/04/2020,49,33,Argentina,CABA,,3244,39,158,1,,,,,,,,,capital-federal
+22/04/2020,49,33,Argentina,Chaco,,3251,7,158,0,,,,,,,,,chaco
+22/04/2020,49,33,Argentina,Córdoba,,3255,4,159,1,,,,,,,,,cordoba
+22/04/2020,49,33,Argentina,La Rioja,,3260,5,159,0,,,,,,,,,la-rioja
+22/04/2020,49,33,Argentina,Mendoza,,3261,1,159,0,,,,,,,,,mendoza
+22/04/2020,49,33,Argentina,Neuquén,,3262,1,159,0,,,,,,,,,neuquen
+22/04/2020,49,33,Argentina,Río Negro,,3279,17,159,0,,,,,,,,,rio-negro
+22/04/2020,49,33,Argentina,Santa Fe,Venado Tuerto,3282,3,159,0,,,,,,,,,santa-fe
+22/04/2020,49,33,Argentina,Santa Fe,Funes,3283,1,159,0,,,,,,,,,santa-fe
+22/04/2020,49,33,Argentina,Santa Fe,Rosario,3284,1,159,0,,,,,,,,,santa-fe
+22/04/2020,49,33,Argentina,Tucumán,,3287,3,159,0,,,,,,,,se quita 1 caso confirmado en el parte del 24/4/2020,tucuman
+22/04/2020,49,33,Argentina,Indeterminado,,3287,0,159,0,919,136,31845,35133,transmision comunitaria,,,,no-data
+23/04/2020,50,34,Argentina,Buenos Aires,,3371,84,163,4,,,,,,,,,buenos-aires
+23/04/2020,50,34,Argentina,CABA,,3408,37,164,1,,,,,,,,,capital-federal
+23/04/2020,50,34,Argentina,Chaco,,3418,10,164,0,,,,,,,,,chaco
+23/04/2020,50,34,Argentina,Córdoba,,3420,2,164,0,,,,,,,,,cordoba
+23/04/2020,50,34,Argentina,Corrientes,,3421,1,164,0,,,,,,,,,corrientes
+23/04/2020,50,34,Argentina,Mendoza,,3422,1,165,1,,,,,,,,,mendoza
+23/04/2020,50,34,Argentina,Neuquén,,3423,1,165,0,,,,,,,,,neuquen
+23/04/2020,50,34,Argentina,Río Negro,,3427,4,165,0,,,,,,,,,rio-negro
+23/04/2020,50,34,Argentina,Santa Fe,San Lorenzo,3429,2,165,0,,,,,,,,,santa-fe
+23/04/2020,50,34,Argentina,Santa Fe,Fray Luis Beltrán,3430,1,165,0,,,,,,,,,santa-fe
+23/04/2020,50,34,Argentina,Santa Fe,Granadero Baigorria,3431,1,165,0,,,,,,,,,santa-fe
+23/04/2020,50,34,Argentina,Santa Fe,Oliveros ,3432,1,165,0,,,,,,,,,santa-fe
+23/04/2020,50,34,Argentina,Santa Fe,Venado Tuerto,3433,1,165,0,,,,,,,,,santa-fe
+23/04/2020,50,34,Argentina,Tierra del Fuego,,3434,1,165,0,,,,,,,,,tierra-del-fuego
+23/04/2020,50,34,Argentina,Indeterminado,,3434,0,165,0,976,141,33874,37309,transmision comunitaria,,,,no-data
+24/04/2020,51,35,Argentina,Buenos Aires,,3495,61,169,4,,,,,,,,,buenos-aires
+24/04/2020,51,35,Argentina,CABA,,3574,79,173,4,,,,,,,,,capital-federal
+24/04/2020,51,35,Argentina,Chaco,,3581,7,174,1,,,,,,,,,chaco
+24/04/2020,51,35,Argentina,Córdoba,,3584,3,175,1,,,,,,,,,cordoba
+24/04/2020,51,35,Argentina,Corrientes,,3588,4,175,0,,,,,,,,,corrientes
+24/04/2020,51,35,Argentina,La Rioja,,3590,2,175,0,,,,,,,,,la-rioja
+24/04/2020,51,35,Argentina,Misiones,Posadas,3591,1,176,1,,,,,,,,,misiones
+24/04/2020,51,35,Argentina,Río Negro,,3602,11,176,0,,,,,,,,,rio-negro
+24/04/2020,51,35,Argentina,Santa Cruz,,3603,1,176,0,,,,,,,,,santa-cruz
+24/04/2020,51,35,Argentina,Santa Fe,Sancti Spiritu,3604,1,176,0,,,,,,,,,santa-fe
+24/04/2020,51,35,Argentina,Santa Fe,Capitán Bermúdez,3605,1,176,0,,,,,,,,,santa-fe
+24/04/2020,51,35,Argentina,Santa Fe,Venado Tuerto,3606,1,176,0,,,,,,,,,santa-fe
+24/04/2020,51,35,Argentina,Tierra del Fuego,,3607,1,176,0,,,,,,,,,tierra-del-fuego
+24/04/2020,51,35,Argentina,Indeterminado,,3607,0,176,0,1030,144,36067,39674,transmision comunitaria,,,,no-data
+25/04/2020,52,36,Argentina,Buenos Aires,,3701,94,178,2,,,,,,,,,buenos-aires
+25/04/2020,52,36,Argentina,CABA,,3756,55,182,4,,,,,,,,,capital-federal
+25/04/2020,52,36,Argentina,Chaco,,3763,7,182,0,,,,,,,,,chaco
+25/04/2020,52,36,Argentina,Córdoba,,3764,1,183,1,,,,,,,,,cordoba
+25/04/2020,52,36,Argentina,Corrientes,,3765,1,183,0,,,,,,,,,corrientes
+25/04/2020,52,36,Argentina,La Rioja,,3768,3,184,1,,,,,,,,,la-rioja
+25/04/2020,52,36,Argentina,Río Negro,,3772,4,185,1,,,,,,,,,rio-negro
+25/04/2020,52,36,Argentina,Santa Fe,Fray Luis Beltrán,3774,2,185,0,,,,,,,,,santa-fe
+25/04/2020,52,36,Argentina,Santa Fe,Rosario,3775,1,185,0,,,,,,,,,santa-fe
+25/04/2020,52,36,Argentina,Santiago del Estero,,3776,1,185,0,,,,,,,,,santiago-del-estero
+25/04/2020,52,36,Argentina,Tierra del Fuego,,3780,4,185,0,,,,,,,,,tierra-del-fuego
+25/04/2020,52,36,Argentina,Indeterminado,,3780,0,185,0,1107,139,37654,41434,transmision comunitaria,,,,no-data
+26/04/2020,53,37,Argentina,Tucumán,,3781,1,185,0,,,,,,,,,tucuman
+26/04/2020,53,37,Argentina,Buenos Aires,,3837,56,187,2,,,,,,,,,buenos-aires
+26/04/2020,53,37,Argentina,CABA,,3873,36,192,5,,,,,,,,,capital-federal
+26/04/2020,53,37,Argentina,Chaco,,3876,3,192,0,,,,,,,,,chaco
+26/04/2020,53,37,Argentina,Córdoba,,3879,3,192,0,,,,,,,,,cordoba
+26/04/2020,53,37,Argentina,Corrientes,,3885,6,192,0,,,,,,,,,corrientes
+26/04/2020,53,37,Argentina,La Rioja,,3885,0,192,0,,,,,,,,,la-rioja
+26/04/2020,53,37,Argentina,Río Negro,,3886,1,192,0,,,,,,,,,rio-negro
+26/04/2020,53,37,Argentina,Santiago del Estero,,3888,2,192,0,,,,,,,,,santiago-del-estero
+26/04/2020,53,37,Argentina,Tierra del Fuego,,3888,0,192,0,,,,,,,,,tierra-del-fuego
+26/04/2020,53,37,Argentina,Santa Cruz,,3889,1,192,0,,,,,,,,,santa-cruz
+26/04/2020,53,37,Argentina,Salta,,3890,1,192,0,,,,,,,,,salta
+26/04/2020,53,37,Argentina,Neuquén,,3891,1,192,0,,,,,,,,,neuquen
+26/04/2020,53,37,Argentina,Entre Ríos,,3892,1,192,0,,,,,,,,,entre-rios
+26/04/2020,53,37,Argentina,Indeterminado,,3892,0,192,0,1140,151,39420,43312,,,,,no-data
+27/04/2020,54,38,Argentina,Buenos Aires,,3942,50,193,1,,,,,,,,,buenos-aires
+27/04/2020,54,38,Argentina,CABA,,3974,32,195,2,,,,,,,,,capital-federal
+27/04/2020,54,38,Argentina,Chaco,,3984,10,196,1,,,,,,,,,chaco
+27/04/2020,54,38,Argentina,Misiones,,3986,2,196,0,,,,,,,,,misiones
+27/04/2020,54,38,Argentina,Neuquén,,3989,3,196,0,,,,,,,,,neuquen
+27/04/2020,54,38,Argentina,Río Negro,,3997,8,196,0,,,,,,,,,rio-negro
+27/04/2020,54,38,Argentina,Santa Cruz,,4002,5,196,0,,,,,,,,,santa-cruz
+27/04/2020,54,38,Argentina,Tierra del Fuego,,4003,1,196,0,,,,,,,,,tierra-del-fuego
+27/04/2020,54,38,Argentina,Córdoba,,4003,0,197,1,,,,,,,,,cordoba
+27/04/2020,54,38,Argentina,Indeterminado,,4003,0,197,0,1162,155,40959,44962,,,,,no-data
+28/04/2020,55,39,Argentina,Buenos Aires,,4051,48,203,6,,,,,,,,,buenos-aires
+28/04/2020,55,39,Argentina,CABA,,4101,50,205,2,,,,,,,,,capital-federal
+28/04/2020,55,39,Argentina,Córdoba,,4103,2,206,1,,,,,,,,,cordoba
+28/04/2020,55,39,Argentina,Corrientes,,4104,1,206,0,,,,,,,,,corrientes
+28/04/2020,55,39,Argentina,La Rioja,,4105,1,206,0,,,,,,,,,la-rioja
+28/04/2020,55,39,Argentina,Mendoza,,4106,1,206,0,,,,,,,,,mendoza
+28/04/2020,55,39,Argentina,Río Negro,,4119,13,206,0,,,,,,,,,rio-negro
+28/04/2020,55,39,Argentina,Santa Fe,Fray Luis Beltrán,4120,1,206,0,,,,,,,,,santa-fe
+28/04/2020,55,39,Argentina,Tierra del Fuego,,4126,6,206,0,,,,,,,,,tierra-del-fuego
+28/04/2020,55,39,Argentina,Tucumán,,4127,1,206,0,,,,,,,,,tucuman
+28/04/2020,55,39,Argentina,Neuquén,,4127,0,207,1,,,,,,,,,neuquen
+28/04/2020,55,39,Argentina,Indeterminado,,4127,0,207,0,1192,154,42710,46837,,,,,no-data
+29/04/2020,56,40,Argentina,Buenos Aires,,4230,103,209,2,,,,,,,,,buenos-aires
+29/04/2020,56,40,Argentina,CABA,,4264,34,212,3,,,,,,,,,capital-federal
+29/04/2020,56,40,Argentina,Chaco,,4268,4,213,1,,,,,,,,,chaco
+29/04/2020,56,40,Argentina,Córdoba,,4269,1,213,0,,,,,,,,,cordoba
+29/04/2020,56,40,Argentina,La Rioja,,4270,1,213,0,,,,,,,,,la-rioja
+29/04/2020,56,40,Argentina,Mendoza,,4272,2,213,0,,,,,,,,,mendoza
+29/04/2020,56,40,Argentina,Misiones,,4276,4,213,0,,,,,,,,,misiones
+29/04/2020,56,40,Argentina,Neuquén,,4277,1,213,0,,,,,,,,,neuquen
+29/04/2020,56,40,Argentina,Río Negro,,4285,8,214,1,,,,,,,,,rio-negro
+29/04/2020,56,40,Argentina,Indeterminado,,4285,0,214,0,1256,157,44828,49113,,,,,no-data
+30/04/2020,57,41,Argentina,Buenos Aires,,4351,66,216,2,,,,,,,,,buenos-aires
+30/04/2020,57,41,Argentina,CABA,,4396,45,218,2,,,,,,,,,capital-federal
+30/04/2020,57,41,Argentina,Chaco,,4399,3,218,0,,,,,,,,,chaco
+30/04/2020,57,41,Argentina,Córdoba,,4401,2,218,0,,,,,,,,,cordoba
+30/04/2020,57,41,Argentina,Corrientes,,4402,1,218,0,,,,,,,,,corrientes
+30/04/2020,57,41,Argentina,Mendoza,,4407,5,218,0,,,,,,,,,mendoza
+30/04/2020,57,41,Argentina,Neuquén,,4408,1,218,0,,,,,,,,se quita 1 caso confirmado en el parte del 1/5/2020,neuquen
+30/04/2020,57,41,Argentina,Río Negro,,4422,14,218,0,,,,,,,,,rio-negro
+30/04/2020,57,41,Argentina,Santa Cruz,,4423,1,218,0,,,,,,,,,santa-cruz
+30/04/2020,57,41,Argentina,Tierra del Fuego,,4425,2,218,0,,,,,,,,,tierra-del-fuego
+30/04/2020,57,41,Argentina,Tucumán,,4427,2,218,0,,,,,,,,,tucuman
+30/04/2020,57,41,Argentina,Indeterminado,,4427,0,218,0,1292,159,46828,51256,,,,,no-data
+1/05/2020,58,42,Argentina,Buenos Aires,,4461,34,221,3,,,,,,,,,buenos-aires
+1/05/2020,58,42,Argentina,CABA,,4490,29,225,4,,,,,,,,,capital-federal
+1/05/2020,58,42,Argentina,Chaco,,4502,12,225,0,,,,,,,,,chaco
+1/05/2020,58,42,Argentina,Chubut,,4503,1,225,0,,,,,,,,,chubut
+1/05/2020,58,42,Argentina,Córdoba,,4516,13,225,0,,,,,,,,,cordoba
+1/05/2020,58,42,Argentina,Corrientes,,4516,0,225,0,,,,,,,,se quita 1 caso confirmado en el parte del 4/5/2020,corrientes
+1/05/2020,58,42,Argentina,Entre Ríos,,4518,2,225,0,,,,,,,,,entre-rios
+1/05/2020,58,42,Argentina,La Rioja,,4521,3,225,0,,,,,,,,,la-rioja
+1/05/2020,58,42,Argentina,Mendoza,,4522,1,225,0,,,,,,,,,mendoza
+1/05/2020,58,42,Argentina,Río Negro,,4530,8,225,0,,,,,,,,,rio-negro
+1/05/2020,58,42,Argentina,Tierra del Fuego,,4531,1,225,0,,,,,,,,,tierra-del-fuego
+1/05/2020,58,42,Argentina,Indeterminado,,4531,0,225,0,1320,164,47467,61530,,,,,no-data
+2/05/2020,59,43,Argentina,Santa Fe,,4531,0,225,0,,,,,,,,,santa-fe
+2/05/2020,59,43,Argentina,CABA, ,4589,58,233,8,,,,,,,https://www.unosantafe.com.ar/el-pais/son-237-los-muertos-coronavirus-el-pais-y-son-4681-los-infectados-n2581720.html,,capital-federal
+2/05/2020,59,43,Argentina,Buenos Aires, ,4634,45,235,2,,,,,,,,,buenos-aires
+2/05/2020,59,43,Argentina,Córdoba,,4646,12,236,1,,,,,,,,,cordoba
+2/05/2020,59,43,Argentina,Misiones,,4658,12,236,0,,,,,,,,,misiones
+2/05/2020,59,43,Argentina,Chaco,,4669,11,237,1,,,,,,,,,chaco
+2/05/2020,59,43,Argentina,Río Negro,,4675,6,237,0,,,,,,,,,rio-negro
+2/05/2020,59,43,Argentina,Tierra del Fuego,,4678,3,237,0,,,,,,,,,tierra-del-fuego
+2/05/2020,59,43,Argentina,Chubut,,4679,1,237,0,,,,,,,,,chubut
+2/05/2020,59,43,Argentina,Mendoza,,4679,0,237,0,,,,,,,,se quita 1 caso confirmado en el parte del 3/5/2020,mendoza
+2/05/2020,59,43,Argentina,Indeterminado,,4679,0,237,0,1354,161,50098,54779,,,,,no-data
+3/05/2020,60,44,Argentina,Santa Fe,,4679,0,237,0,,,,,,,,,santa-fe
+3/05/2020,60,44,Argentina,CABA, ,4728,49,239,2,,,,,,,,,capital-federal
+3/05/2020,60,44,Argentina,Buenos Aires, ,4766,38,242,3,,,,,,,,,buenos-aires
+3/05/2020,60,44,Argentina,Córdoba,,4767,1,244,2,,,,,,,,,cordoba
+3/05/2020,60,44,Argentina,Misiones,,4767,0,244,0,,,,,,,,,misiones
+3/05/2020,60,44,Argentina,Chaco,,4772,5,245,1,,,,,,,,,chaco
+3/05/2020,60,44,Argentina,Río Negro,,4778,6,246,1,,,,,,,,,rio-negro
+3/05/2020,60,44,Argentina,Tierra del Fuego,,4780,2,246,0,,,,,,,,,tierra-del-fuego
+3/05/2020,60,44,Argentina,Chubut,,4780,0,246,0,,,,,,,,,chubut
+3/05/2020,60,44,Argentina,Mendoza,,4780,0,246,0,,,,,,,https://www.argentina.gob.ar/sites/default/files/03-05-20_reporte_vespertino_covid_19.pdf,"En el día de hoy, Mendoza reclasificó uno de sus casos que figuraba como confirmado, a descartado, por un error de carga",mendoza
+3/05/2020,60,44,Argentina,Entre Ríos,,4782,2,246,0,,,,,,,,,entre-rios
+3/05/2020,60,44,Argentina,Indeterminado,,4782,0,246,0,1442,146,51590,56372,,,,,no-data
+4/05/2020,61,45,Argentina,Buenos Aires,,4820,38,253,7,,,,,,,,,buenos-aires
+4/05/2020,61,45,Argentina,CABA,,4863,43,257,4,,,,,,,,,capital-federal
+4/05/2020,61,45,Argentina,Chaco,,4868,5,258,1,,,,,,,,,chaco
+4/05/2020,61,45,Argentina,Córdoba,,4874,6,260,2,,,,,,,,,cordoba
+4/05/2020,61,45,Argentina,La Rioja,,4875,1,260,0,,,,,,,,,la-rioja
+4/05/2020,61,45,Argentina,Misiones,,4876,1,260,0,,,,,,,,,misiones
+4/05/2020,61,45,Argentina,Río Negro,,4883,7,260,0,,,,,,,,,rio-negro
+4/05/2020,61,45,Argentina,Tucumán,,4886,3,260,0,,,,,,,,,tucuman
+4/05/2020,61,45,Argentina,Indeterminado,,4886,0,260,0,1472,148,53203,58089,,,,,no-data
+5/05/2020,62,46,Argentina,Buenos Aires,,4944,58,261,1,,,,,,,,,buenos-aires
+5/05/2020,62,46,Argentina,CABA,,5001,57,262,1,,,,,,,,,capital-federal
+5/05/2020,62,46,Argentina,Chaco,,5012,11,262,0,,,,,,,,,chaco
+5/05/2020,62,46,Argentina,Córdoba,,5013,1,264,2,,,,,,,,,cordoba
+5/05/2020,62,46,Argentina,Río Negro,,5017,4,264,0,,,,,,,,,rio-negro
+5/05/2020,62,46,Argentina,Santa Fe,,5018,1,264,0,,,,,,,,,santa-fe
+5/05/2020,62,46,Argentina,Mendoza,,5019,1,264,0,,,,,,,,,mendoza
+5/05/2020,62,46,Argentina,Entre Ríos,,5020,1,264,0,,,,,,,,,entre-rios
+5/05/2020,62,46,Argentina,Indeterminado,,5020,0,264,0,1524,143,55227,60247,,,,,no-data
+6/05/2020,63,47,Argentina,Buenos Aires,,5083,63,269,5,,,,,,,,,buenos-aires
+6/05/2020,63,47,Argentina,CABA,,5185,102,271,2,,,,,,,,,capital-federal
+6/05/2020,63,47,Argentina,Chaco,,5193,8,272,1,,,,,,,,,chaco
+6/05/2020,63,47,Argentina,Córdoba,,5198,5,272,0,,,,,,,,,cordoba
+6/05/2020,63,47,Argentina,Corrientes,,5201,3,272,0,,,,,,,,,corrientes
+6/05/2020,63,47,Argentina,La Rioja,,5202,1,272,0,,,,,,,,,la-rioja
+6/05/2020,63,47,Argentina,Río Negro,,5208,6,273,1,,,,,,,,,rio-negro
+6/05/2020,63,47,Argentina,Indeterminado,,5208,0,273,0,1601,151,57176,62384,,,,,no-data
+7/05/2020,64,48,Argentina,Buenos Aires,,5258,50,279,6,,,,,,,,,buenos-aires
+7/05/2020,64,48,Argentina,CABA,,5335,77,281,2,,,,,,,,,capital-federal
+7/05/2020,64,48,Argentina,Chaco,,5361,26,281,0,,,,,,,,,chaco
+7/05/2020,64,48,Argentina,Córdoba,,5365,4,281,0,,,,,,,,,chaco
+7/05/2020,64,48,Argentina,Corrientes,,5366,1,281,0,,,,,,,,,corrientes
+7/05/2020,64,48,Argentina,La Rioja,,5367,1,281,0,,,,,,,,,la-rioja
+7/05/2020,64,48,Argentina,Río Negro,,5370,3,281,0,,,,,,,,,rio-negro
+7/05/2020,64,48,Argentina,San Juan,,5371,1,281,0,,,,,,,,,san-juan
+7/05/2020,64,48,Argentina,Santa Fe,,5371,0,282,1,,,,,,,,,santa-fe
+7/05/2020,64,48,Argentina,Indeterminado,,5371,0,282,0,1659,155,59080,64451,,,,,no-data
+8/05/2020,65,49,Argentina,Buenos Aires,,5448,77,287,5,,,,,,,,,buenos-aires
+8/05/2020,65,49,Argentina,CABA,,5578,130,293,6,,,,,,,,,capital-federal
+8/05/2020,65,49,Argentina,Chaco,,5604,26,293,0,,,,,,,,,chaco
+8/05/2020,65,49,Argentina,Córdoba,,5606,2,293,0,,,,,,,,,cordoba
+8/05/2020,65,49,Argentina,Corrientes,,5607,1,293,0,,,,,,,,,corrientes
+8/05/2020,65,49,Argentina,La Rioja,,5608,1,293,0,,,,,,,,,la-rioja
+8/05/2020,65,49,Argentina,Mendoza,,5609,1,293,0,,,,,,,,,mendoza
+8/05/2020,65,49,Argentina,Río Negro,,5611,2,293,0,,,,,,,,,rio-negro
+8/05/2020,65,49,Argentina,Santa Fe,,5611,0,293,0,,,,,,,,,santa-fe
+8/05/2020,65,49,Argentina,Indeterminado,,5611,0,293,0,1728,157,61025,66636,,,,,no-data
+9/05/2020,66,50,Argentina,Buenos Aires,,5671,60,297,4,,,,,,,,,buenos-aires
+9/05/2020,66,50,Argentina,CABA,,5754,83,299,2,,,,,,,,,capital-federal
+9/05/2020,66,50,Argentina,Chaco,,5763,9,299,0,,,,,,,,,chaco
+9/05/2020,66,50,Argentina,Córdoba,,5769,6,299,0,,,,,,,,,cordoba
+9/05/2020,66,50,Argentina,Corrientes,,5770,1,299,0,,,,,,,,,corrientes
+9/05/2020,66,50,Argentina,La Rioja,,5770,0,300,1,,,,,,,,,la-rioja
+9/05/2020,66,50,Argentina,Neuquén,,5771,1,300,0,,,,,,,,,neuquen
+9/05/2020,66,50,Argentina,Mendoza,,5771,0,300,0,,,,,,,,,mendoza
+9/05/2020,66,50,Argentina,Río Negro,,5775,4,300,0,,,,,,,,,rio-negro
+9/05/2020,66,50,Argentina,Santa Fe,,5775,0,300,0,,,,,,,,,santa-fe
+9/05/2020,66,50,Argentina,Tierra del Fuego,,5776,1,300,0,,,,,,,,"***Se  incluyen  13  casos  existentes  en  las  Islas  Malvinas  según  información  de  prensa (debido  a  la  ocupación  ilegal  del  Reino  Unido,  Gran  Bretaña  e  Irlandadel  Norte  no  es posible  contar  con  información  propia  sobre  el  impacto  del  COVID -19  en  esa  parte  del territorio argentino).",tierra-del-fuego
+9/05/2020,66,50,Argentina,Indeterminado,,5776,0,300,0,1757,160,62760,68536,,,,,no-data
+10/05/2020,67,51,Argentina,Buenos Aires,,5827,51,304,4,,,,,,,,,buenos-aires
+10/05/2020,67,51,Argentina,CABA,,5992,165,305,1,,,,,,,,,capital-federal
+10/05/2020,67,51,Argentina,Chaco,,6024,32,305,0,,,,,,,,,chaco
+10/05/2020,67,51,Argentina,Córdoba,,6029,5,305,0,,,,,,,,,cordoba
+10/05/2020,67,51,Argentina,Corrientes,,6029,0,305,0,,,,,,,,,corrientes
+10/05/2020,67,51,Argentina,La Rioja,,6029,0,305,0,,,,,,,,,la-rioja
+10/05/2020,67,51,Argentina,Neuquén,,6029,0,305,0,,,,,,,,,neuquen
+10/05/2020,67,51,Argentina,Mendoza,,6029,0,305,0,,,,,,,,,mendoza
+10/05/2020,67,51,Argentina,Río Negro,,6031,2,305,0,,,,,,,,,rio-negro
+10/05/2020,67,51,Argentina,Santa Fe,,6031,0,305,0,,,,,,,,,santa-fe
+10/05/2020,67,51,Argentina,Santiago del Estero,,6032,1,305,0,,,,,,,,,santiago-del-estero
+10/05/2020,67,51,Argentina,Tierra del Fuego,,6034,2,305,0,,,,,,,,,tierra-del-fuego
+10/05/2020,67,51,Argentina,Indeterminado,,6034,0,305,0,1837,164,64104,70138,,,,,no-data
+11/05/2020,68,52,Argentina,Buenos Aires,,6078,44,309,4,,,,,,,,,buenos-aires
+11/05/2020,68,52,Argentina,CABA,,6215,137,312,3,,,,,,,,,capital-federal
+11/05/2020,68,52,Argentina,Chaco,,6232,17,313,1,,,,,,,,,chaco
+11/05/2020,68,52,Argentina,Córdoba,,6246,14,313,0,,,,,,,,,cordoba
+11/05/2020,68,52,Argentina,Corrientes,,6262,16,313,0,,,,,,,,,corrientes
+11/05/2020,68,52,Argentina,La Rioja,,6263,1,313,0,,,,,,,,,la-rioja
+11/05/2020,68,52,Argentina,Neuquén,,6263,0,313,0,,,,,,,,,neuquen
+11/05/2020,68,52,Argentina,Misiones,,6264,1,313,0,,,,,,,,,misiones
+11/05/2020,68,52,Argentina,Río Negro,,6277,13,314,1,,,,,,,,,rio-negro
+11/05/2020,68,52,Argentina,Santa Fe,,6277,0,314,0,,,,,,,,,santa-fe
+11/05/2020,68,52,Argentina,Santiago del Estero,,6277,0,314,0,,,,,,,,,santiago-del-estero
+11/05/2020,68,52,Argentina,Tucumán,,6278,1,314,0,,,,,,,,,tucuman
+11/05/2020,68,52,Argentina,Indeterminado,,6278,0,314,0,1862,170,65976,72254,,,,,no-data
+12/05/2020,69,53,Argentina,Buenos Aires,,6358,80,316,2,,,,,,,,,buenos-aires
+12/05/2020,69,53,Argentina,CABA,,6546,188,317,1,,,,,,,,,capital-federal
+12/05/2020,69,53,Argentina,Chaco,,6556,10,318,1,,,,,,,,,chaco
+12/05/2020,69,53,Argentina,Córdoba,,6559,3,319,1,,,,,,,,,cordoba
+12/05/2020,69,53,Argentina,Corrientes,,6560,1,319,0,,,,,,,,,corrientes
+12/05/2020,69,53,Argentina,La Rioja,,6560,0,319,0,,,,,,,,,la-rioja
+12/05/2020,69,53,Argentina,Mendoza,,6561,1,319,0,,,,,,,,,mendoza
+12/05/2020,69,53,Argentina,Neuquén,,6561,0,319,0,,,,,,,,,neuquen
+12/05/2020,69,53,Argentina,Río Negro,,6562,1,319,0,,,,,,,,,rio-negro
+12/05/2020,69,53,Argentina,Salta,,6563,1,319,0,,,,,,,,,salta
+12/05/2020,69,53,Argentina,Santa Fe,,6563,0,319,0,,,,,,,,,santa-fe
+12/05/2020,69,53,Argentina,Santiago del Estero,,6563,0,319,0,,,,,,,,,santiago-del-estero
+12/05/2020,69,53,Argentina,Tucumán,,6563,0,319,0,,,,,,,,,tucuman
+12/05/2020,69,53,Argentina,Indeterminado,,6563,0,319,0,2266,147,68237,74800,,,,,no-data
+13/05/2020,70,54,Argentina,Buenos Aires,,6659,96,323,4,,,,,,,,,buenos-aires
+13/05/2020,70,54,Argentina,CABA,,6838,179,328,5,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
+13/05/2020,70,54,Argentina,Chaco,,6856,18,329,1,,,,,,,,,chaco
+13/05/2020,70,54,Argentina,Córdoba,,6867,11,329,0,,,,,,,,,cordoba
+13/05/2020,70,54,Argentina,Corrientes,,6872,5,329,0,,,,,,,,,corrientes
+13/05/2020,70,54,Argentina,Entre Ríos,,6873,1,329,0,,,,,,,,,entre-rios
+13/05/2020,70,54,Argentina,La Rioja,,6873,0,329,0,,,,,,,,,la-rioja
+13/05/2020,70,54,Argentina,Mendoza,,6873,0,329,0,,,,,,,,,mendoza
+13/05/2020,70,54,Argentina,Misiones,,6872,-1,329,0,,,,,,,,,misiones
+13/05/2020,70,54,Argentina,Neuquén,,6874,2,329,0,,,,,,,,,neuquen
+13/05/2020,70,54,Argentina,Río Negro,,6878,4,329,0,,,,,,,,,rio-negro
+13/05/2020,70,54,Argentina,Salta,,6878,0,329,0,,,,,,,,,salta
+13/05/2020,70,54,Argentina,Santa Fe,,6878,0,329,0,,,,,,,,,santa-fe
+13/05/2020,70,54,Argentina,Santiago del Estero,,6878,0,329,0,,,,,,,,,santiago-del-estero
+13/05/2020,70,54,Argentina,Tucumán,,6878,0,329,0,,,,,,,,,tucuman
+13/05/2020,70,54,Argentina,Indeterminado,,6878,0,329,0,2385,147,70497,77376,,,,,no-data
+14/05/2020,71,55,Argentina,Buenos Aires,,6957,79,341,12,,,,,,,,,buenos-aires
+14/05/2020,71,55,Argentina,CABA,,7110,153,350,9,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
+14/05/2020,71,55,Argentina,Chaco,,7119,9,351,1,,,,,,,,,chaco
+14/05/2020,71,55,Argentina,Córdoba,,7124,5,352,1,,,,,,,,,cordoba
+14/05/2020,71,55,Argentina,Corrientes,,7127,3,352,0,,,,,,,,,corrientes
+14/05/2020,71,55,Argentina,Entre Ríos,,7128,1,352,0,,,,,,,,,entre-rios
+14/05/2020,71,55,Argentina,La Rioja,,7128,0,352,0,,,,,,,,,la-rioja
+14/05/2020,71,55,Argentina,Mendoza,,7128,0,352,0,,,,,,,,,mendoza
+14/05/2020,71,55,Argentina,Misiones,,7128,0,352,0,,,,,,,,,misiones
+14/05/2020,71,55,Argentina,Neuquén,,7129,1,352,0,,,,,,,,,neuquen
+14/05/2020,71,55,Argentina,Río Negro,,7133,4,353,1,,,,,,,,,rio-negro
+14/05/2020,71,55,Argentina,Salta,,7133,0,353,0,,,,,,,,,salta
+14/05/2020,71,55,Argentina,Santa Fe,,7133,0,353,0,,,,,,,,,santa-fe
+14/05/2020,71,55,Argentina,Santiago del Estero,,7133,0,353,0,,,,,,,,,santiago-del-estero
+14/05/2020,71,55,Argentina,Tucumán,,7133,0,353,0,,,,,,,,,tucuman
+14/05/2020,71,55,Argentina,Indeterminado,,7133,0,353,0,2497,149,72972,80106,,,,,no-data
+15/05/2020,72,56,Argentina,Buenos Aires,,7219,86,355,2,,,,,,,,,buenos-aires
+15/05/2020,72,56,Argentina,CABA,,7434,215,355,0,,,,,,,,"**Un  caso  confirmado  de  la  provincia  de  Misiones,  fue  reclasificado  a  Ciudad  de  Buenos Aires (CABA).",capital-federal
+15/05/2020,72,56,Argentina,Chaco,,7459,25,356,1,,,,,,,,,chaco
+15/05/2020,72,56,Argentina,Córdoba,,7462,3,356,0,,,,,,,,,cordoba
+15/05/2020,72,56,Argentina,Corrientes,,7462,0,356,0,,,,,,,,,corrientes
+15/05/2020,72,56,Argentina,Entre Ríos,,7461,-1,356,0,,,,,,,,,entre-rios
+15/05/2020,72,56,Argentina,La Rioja,,7461,0,356,0,,,,,,,,,la-rioja
+15/05/2020,72,56,Argentina,Mendoza,,7461,0,356,0,,,,,,,,,mendoza
+15/05/2020,72,56,Argentina,Misiones,,7461,0,356,0,,,,,,,,,misiones
+15/05/2020,72,56,Argentina,Neuquén,,7461,0,356,0,,,,,,,,,neuquen
+15/05/2020,72,56,Argentina,Río Negro,,7478,17,356,0,,,,,,,,,rio-negro
+15/05/2020,72,56,Argentina,Salta,,7478,0,356,0,,,,,,,,,salta
+15/05/2020,72,56,Argentina,Santa Fe,,7478,0,356,0,,,,,,,,,santa-fe
+15/05/2020,72,56,Argentina,Santiago del Estero,,7478,0,356,0,,,,,,,,,santiago-del-estero
+15/05/2020,72,56,Argentina,Tucumán,,7478,0,356,0,,,,,,,,,tucuman
+15/05/2020,72,56,Argentina,Indeterminado,,7478,0,356,0,2534,151,75647,83126,,,,,no-data
+16/05/2020,73,57,Argentina,Buenos Aires,,7575,97,358,2,,,,,,,,,buenos-aires
+16/05/2020,73,57,Argentina,CABA,,7768,193,362,4,,,,,,,,,capital-federal
+16/05/2020,73,57,Argentina,Chaco,,7789,21,363,1,,,,,,,,,chaco
+16/05/2020,73,57,Argentina,Córdoba,,7798,9,363,0,,,,,,,,,cordoba
+16/05/2020,73,57,Argentina,Corrientes,,7798,0,363,0,,,,,,,,,corrientes
+16/05/2020,73,57,Argentina,Entre Ríos,,7798,0,363,0,,,,,,,,,entre-rios
+16/05/2020,73,57,Argentina,La Rioja,,7798,0,363,0,,,,,,,,,la-rioja
+16/05/2020,73,57,Argentina,Mendoza,,7798,0,363,0,,,,,,,,,mendoza
+16/05/2020,73,57,Argentina,Misiones,,7798,0,363,0,,,,,,,,,misiones
+16/05/2020,73,57,Argentina,Neuquén,,7798,0,363,0,,,,,,,,,neuquen
+16/05/2020,73,57,Argentina,Río Negro,,7804,6,363,0,,,,,,,,,rio-negro
+16/05/2020,73,57,Argentina,Salta,,7804,0,363,0,,,,,,,,,salta
+16/05/2020,73,57,Argentina,Santa Fe,Rosario,7805,1,363,0,,,,,,,,,santa-fe
+16/05/2020,73,57,Argentina,Santiago del Estero,,7805,0,363,0,,,,,,,,,santiago-del-estero
+16/05/2020,73,57,Argentina,Tucumán,,7805,0,363,0,,,,,,,,,tierra-del-fuego
+16/05/2020,73,57,Argentina,Indeterminado,,7805,0,363,0,2569,154,77582,85387,,,,,no-data
+17/05/2020,74,58,Argentina,Buenos Aires,,7879,74,366,3,,,,,,,,,buenos-aires
+17/05/2020,74,58,Argentina,CABA,,8026,147,368,2,,,,,,,,,capital-federal
+17/05/2020,74,58,Argentina,Chaco,,8045,19,370,2,,,,,,,,,chaco
+17/05/2020,74,58,Argentina,Córdoba,,8065,20,372,2,,,,,,,,,cordoba
+17/05/2020,74,58,Argentina,Corrientes,,8065,0,372,0,,,,,,,,,corrientes
+17/05/2020,74,58,Argentina,Entre Ríos,,8065,0,372,0,,,,,,,,,entre-rios
+17/05/2020,74,58,Argentina,La Rioja,,8066,1,372,0,,,,,,,,,la-rioja
+17/05/2020,74,58,Argentina,Mendoza,,8066,0,372,0,,,,,,,,,mendoza
+17/05/2020,74,58,Argentina,Misiones,,8066,0,372,0,,,,,,,,,misiones
+17/05/2020,74,58,Argentina,Neuquén,,8066,0,372,0,,,,,,,,,neuquen
+17/05/2020,74,58,Argentina,Río Negro,,8068,2,373,1,,,,,,,,,rio-negro
+17/05/2020,74,58,Argentina,Salta,,8068,0,373,0,,,,,,,,,salta
+17/05/2020,74,58,Argentina,Santa Fe,Rosario,8068,0,373,0,,,,,,,,,santa-fe
+17/05/2020,74,58,Argentina,Santiago del Estero,,8068,0,373,0,,,,,,,,,santiago-del-estero
+17/05/2020,74,58,Argentina,Tucumán,,8068,0,373,0,,,,,,,,,tucuman
+17/05/2020,74,58,Argentina,Indeterminado,,8068,0,373,0,2625,159,79462,87530,,,,,no-data
+18/05/2020,75,59,Argentina,Buenos Aires,,8161,93,375,2,,,,,,,,,buenos-aires
+18/05/2020,75,59,Argentina,CABA,,8330,169,380,5,,,,,,,,,capital-federal
+18/05/2020,75,59,Argentina,Chaco,,8343,13,382,2,,,,,,,,,chaco
+18/05/2020,75,59,Argentina,Córdoba,,8363,20,382,0,,,,,,,,,cordoba
+18/05/2020,75,59,Argentina,Corrientes,,8362,-1,382,0,,,,,,,,,corrientes
+18/05/2020,75,59,Argentina,Entre Ríos,,8362,0,382,0,,,,,,,,,entre-rios
+18/05/2020,75,59,Argentina,La Rioja,,8364,2,382,0,,,,,,,,,la-rioja
+18/05/2020,75,59,Argentina,Mendoza,,8364,0,382,0,,,,,,,,,mendoza
+18/05/2020,75,59,Argentina,Misiones,,8364,0,382,0,,,,,,,,,misiones
+18/05/2020,75,59,Argentina,Neuquén,,8364,0,382,0,,,,,,,,,neuquen
+18/05/2020,75,59,Argentina,Río Negro,,8366,2,382,0,,,,,,,,,rio-negro
+18/05/2020,75,59,Argentina,San Juan,,8367,1,382,0,,,,,,,,,san-juan
+18/05/2020,75,59,Argentina,Salta,,8367,0,382,0,,,,,,,,,salta
+18/05/2020,75,59,Argentina,Santa Fe,Rosario,8371,4,382,0,,,,,,,,,santa-fe
+18/05/2020,75,59,Argentina,Santiago del Estero,,8371,0,382,0,,,,,,,,,santiago-del-estero
+18/05/2020,75,59,Argentina,Tucumán,,8371,0,382,0,,,,,,,,,tucuman
+18/05/2020,75,59,Argentina,Indeterminado,,8371,0,382,0,2872,156,81466,89837,,,,,no-data
+19/05/2020,76,60,Argentina,Buenos Aires,,8528,157,384,2,,,,,,,,,buenos-aires
+19/05/2020,76,60,Argentina,CABA,,8752,224,389,5,,,,,,,,,capital-federal
+19/05/2020,76,60,Argentina,Chaco,,8786,34,393,4,,,,,,,,,chaco
+19/05/2020,76,60,Argentina,Córdoba,,8795,9,393,0,,,,,,,,,cordoba
+19/05/2020,76,60,Argentina,Corrientes,,8795,0,393,0,,,,,,,,,corrientes
+19/05/2020,76,60,Argentina,Entre Ríos,,8795,0,393,0,,,,,,,,,entre-rios
+19/05/2020,76,60,Argentina,La Rioja,,8795,0,393,0,,,,,,,,,la-rioja
+19/05/2020,76,60,Argentina,Mendoza,,8797,2,393,0,,,,,,,,,mendoza
+19/05/2020,76,60,Argentina,Misiones,,8797,0,393,0,,,,,,,,,misiones
+19/05/2020,76,60,Argentina,Neuquén,,8797,0,393,0,,,,,,,,,neuquen
+19/05/2020,76,60,Argentina,Río Negro,,8803,6,393,0,,,,,,,,,rio-negro
+19/05/2020,76,60,Argentina,San Juan,,8803,0,393,0,,,,,,,,,san-juan
+19/05/2020,76,60,Argentina,Salta,,8803,0,393,0,,,,,,,,,salta
+19/05/2020,76,60,Argentina,Santa Fe,,8803,0,393,0,,,,,,,,,santa-fe
+19/05/2020,76,60,Argentina,Santiago del Estero,,8809,6,393,0,,,,,,,,,santiago-del-estero
+19/05/2020,76,60,Argentina,Tucumán,,8809,0,393,0,,,,,,,,,tucuman
+19/05/2020,76,60,Argentina,Indeterminado,,8809,0,393,0,2933,161,84449,93258,,,,,no-data
+20/05/2020,77,61,Argentina,Buenos Aires,,8987,178,398,5,,,,,,,,,buenos-aires
+20/05/2020,77,61,Argentina,CABA,,9244,257,400,2,,,,,,,,,capital-federal
+20/05/2020,77,61,Argentina,Chaco,,9279,35,401,1,,,,,,,,,chaco
+20/05/2020,77,61,Argentina,Córdoba,,9281,2,402,1,,,,,,,,,cordoba
+20/05/2020,77,61,Argentina,Corrientes,,9281,0,402,0,,,,,,,,,corrientes
+20/05/2020,77,61,Argentina,Entre Ríos,,9281,0,402,0,,,,,,,,,entre-rios
+20/05/2020,77,61,Argentina,La Rioja,,9281,0,402,0,,,,,,,,,la-rioja
+20/05/2020,77,61,Argentina,Mendoza,,9281,0,402,0,,,,,,,,,mendoza
+20/05/2020,77,61,Argentina,Misiones,,9281,0,402,0,,,,,,,,,misiones
+20/05/2020,77,61,Argentina,Neuquén,,9281,0,402,0,,,,,,,,,neuquen
+20/05/2020,77,61,Argentina,Río Negro,,9283,2,403,1,,,,,,,,,rio-negro
+20/05/2020,77,61,Argentina,San Juan,,9283,0,403,0,,,,,,,,,san-juan
+20/05/2020,77,61,Argentina,Salta,,9283,0,403,0,,,,,,,,,salta
+20/05/2020,77,61,Argentina,Santa Fe,Rosario,9285,2,403,0,,,,,,,,,santa-fe
+20/05/2020,77,61,Argentina,Santiago del Estero,,9285,0,403,0,,,,,,,,,santiago-del-estero
+20/05/2020,77,61,Argentina,Tucumán,,9285,0,403,0,,,,,,,,,tucuman
+20/05/2020,77,61,Argentina,Indeterminado,,9285,0,403,0,3032,171,87447,96730,,,,,no-data
+21/05/2020,78,62,Argentina,Buenos Aires,,9498,213,412,9,,,,,,,,,buenos-aires
+21/05/2020,78,62,Argentina,CABA,,9877,379,414,2,,,,,,,,,capital-federal
+21/05/2020,78,62,Argentina,Chaco,,9911,34,416,2,,,,,,,,,chaco
+21/05/2020,78,62,Argentina,Córdoba,,9923,12,416,0,,,,,,,,,cordoba
+21/05/2020,78,62,Argentina,Corrientes,,9923,0,416,0,,,,,,,,,corrientes
+21/05/2020,78,62,Argentina,Entre Ríos,,9923,0,416,0,,,,,,,,,entre-rios
+21/05/2020,78,62,Argentina,La Rioja,,9923,0,416,0,,,,,,,,,la-rioja
+21/05/2020,78,62,Argentina,Mendoza,,9923,0,416,0,,,,,,,,,mendoza
+21/05/2020,78,62,Argentina,Misiones,,9923,0,416,0,,,,,,,,,misiones
+21/05/2020,78,62,Argentina,Neuquén,,9923,0,416,0,,,,,,,,,neuquen
+21/05/2020,78,62,Argentina,Río Negro,,9926,3,416,0,,,,,,,,,rio-negro
+21/05/2020,78,62,Argentina,San Juan,,9926,0,416,0,,,,,,,,,san-juan
+21/05/2020,78,62,Argentina,Salta,,9926,0,416,0,,,,,,,,,salta
+21/05/2020,78,62,Argentina,Santa Fe,Rosario,9929,3,416,0,,,,,,,,,santa-fe
+21/05/2020,78,62,Argentina,Santiago del Estero,,9929,0,416,0,,,,,,,,,santiago-del-estero
+21/05/2020,78,62,Argentina,Tucumán,,9930,1,416,0,,,,,,,,,tucuman
+21/05/2020,78,62,Argentina,Indeterminado,,9930,0,416,0,3062,172,90667,100598,,,,,no-data
+22/05/2020,79,63,Argentina,Buenos Aires,,10196,266,421,5,,,,,,,,,buenos-aires
+22/05/2020,79,63,Argentina,CABA,,10600,404,428,7,2,,,,,,,,capital-federal
+22/05/2020,79,63,Argentina,Chaco,,10627,27,430,2,,,,,,,,,chaco
+22/05/2020,79,63,Argentina,Córdoba,,10636,9,431,1,,,,,,,,,cordoba
+22/05/2020,79,63,Argentina,Corrientes,,10636,0,431,0,,,,,,,,,corrientes
+22/05/2020,79,63,Argentina,Entre Ríos,,10636,0,431,0,,,,,,,,,entre-rios
+22/05/2020,79,63,Argentina,La Rioja,,10636,0,431,0,,,,,,,,,la-rioja
+22/05/2020,79,63,Argentina,Mendoza,,10636,0,431,0,,,,,,,,,mendoza
+22/05/2020,79,63,Argentina,Misiones,,10636,0,431,0,,,,,,,,,misiones
+22/05/2020,79,63,Argentina,Neuquén,,10636,0,431,0,,,,,,,,,neuquen
+22/05/2020,79,63,Argentina,Río Negro,,10642,6,433,2,,,,,,,,,rio-negro
+22/05/2020,79,63,Argentina,San Juan,,10642,0,433,0,,,,,,,,,san-juan
+22/05/2020,79,63,Argentina,Salta,,10644,2,433,0,,,,,,,,,salta
+22/05/2020,79,63,Argentina,Santa Fe,Rosario,10648,4,433,0,,,,,,,,,santa-fe
+22/05/2020,79,63,Argentina,Santiago del Estero,,10648,0,433,0,,,,,,,,,santiago-del-estero
+22/05/2020,79,63,Argentina,Tucumán,,10648,0,433,0,,,,,,,,,tucuman
+22/05/2020,79,63,Argentina,Indeterminado,,10648,0,433,0,3530,173,93528,104177,,,,,no-data
+23/05/2020,80,64,Argentina,Buenos Aires,,10937,289,437,4,,,,,,,,,buenos-aires
+23/05/2020,80,64,Argentina,CABA,,11337,400,443,6,,,,,,,,,capital-federal
+23/05/2020,80,64,Argentina,Chaco,,11344,7,445,2,,,,,,,,,chaco
+23/05/2020,80,64,Argentina,Córdoba,,11344,0,445,0,,,,,,,,,cordoba
+23/05/2020,80,64,Argentina,Corrientes,,11344,0,445,0,,,,,,,,,corrientes
+23/05/2020,80,64,Argentina,Entre Ríos,,11344,0,445,0,,,,,,,,,entre-rios
+23/05/2020,80,64,Argentina,La Rioja,,11344,0,445,0,,,,,,,,,la-rioja
+23/05/2020,80,64,Argentina,Mendoza,,11344,0,445,0,,,,,,,,,mendoza
+23/05/2020,80,64,Argentina,Misiones,,11344,0,445,0,,,,,,,,,misiones
+23/05/2020,80,64,Argentina,Neuquén,,11344,0,445,0,,,,,,,,,neuquen
+23/05/2020,80,64,Argentina,Río Negro,,11349,5,445,0,,,,,,,,,rio-negro
+23/05/2020,80,64,Argentina,San Juan,,11349,0,445,0,,,,,,,,,san-juan
+23/05/2020,80,64,Argentina,Salta,,11349,0,445,0,,,,,,,,,salta
+23/05/2020,80,64,Argentina,Santa Fe,Rosario,11349,0,445,0,,,,,,,,,santa-fe
+23/05/2020,80,64,Argentina,Santiago del Estero,,11349,0,445,0,,,,,,,,,santiago-del-estero
+23/05/2020,80,64,Argentina,Tucumán,,11352,3,445,0,,,,,,,,,tucuman
+23/05/2020,80,64,Argentina,Indeterminado,,11352,0,445,0,3732,181,95859,107212,,,,,no-data
+24/05/2020,81,65,Argentina,Buenos Aires,,11548,196,447,2,,,,,,,,,
+24/05/2020,81,65,Argentina,CABA,,12042,494,450,3,,,,,,,,,
+24/05/2020,81,65,Argentina,Chaco,,12062,20,452,2,,,,,,,,,
+24/05/2020,81,65,Argentina,Córdoba,,12068,6,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Corrientes,,12068,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Entre Ríos,,12068,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,La Rioja,,12068,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Mendoza,,12068,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Misiones,,12068,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Neuquén,,12069,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Río Negro,,12074,5,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,San Juan,,12074,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Salta,,12074,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santa Fe,Venado Tuerto,12075,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santa Fe,Las Rosas,12076,1,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Santiago del Estero,,12076,0,452,0,,,,,,,,,
+24/05/2020,81,65,Argentina,Tucumán,,12075,-1,452,0,,,,,,,,***Un caso confirmado de Tucumán fue reclasificado a la Ciudad de Buenos Aires.,
+24/05/2020,81,65,Argentina,Indeterminado,,12075,0,452,0,3999,181,98352,110428,,,,,
+25/05/2020,82,66,Argentina,Buenos Aires,,12234,159,458,6,,,,,,,,,
+25/05/2020,82,66,Argentina,CABA,,12609,375,465,7,,,,,,,,,
+25/05/2020,82,66,Argentina,Chaco,,12618,9,465,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Córdoba,,12621,3,466,1,,,,,,,,,
+25/05/2020,82,66,Argentina,Corrientes,,12621,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Entre Ríos,,12621,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,La Rioja,,12621,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Mendoza,,12621,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Misiones,,12621,0,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Neuquén,,12622,1,466,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Río Negro,,12626,4,467,1,,,,,,,,,
+25/05/2020,82,66,Argentina,San Juan,,12626,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Salta,,12626,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santa Fe,Rosario,12625,-1,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santa Fe,,12625,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Santiago del Estero,,12625,0,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Tucumán,,12627,2,467,0,,,,,,,,,
+25/05/2020,82,66,Argentina,Indeterminado,,12627,0,467,0,4167,203,100639,113267,,,,,
+26/05/2020,83,67,Argentina,Buenos Aires,,12863,236,483,16,,,,,,,,,
+26/05/2020,83,67,Argentina,CABA,,13190,327,488,5,,,,,,,,,
+26/05/2020,83,67,Argentina,Chaco,,13213,23,490,2,,,,,,,,,
+26/05/2020,83,67,Argentina,Chubut,,13214,1,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Córdoba,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Corrientes,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Entre Ríos,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,La Rioja,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Mendoza,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Misiones,,13214,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Neuquén,,13221,7,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Río Negro,,13225,4,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,San Juan,,13225,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Salta,,13225,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santa Fe,Rosario,13226,1,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santa Fe,,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Santiago del Estero,,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Tucumán,,13226,0,490,0,,,,,,,,,
+26/05/2020,83,67,Argentina,Indeterminado,,13226,0,490,0,4349,250,103173,116401,,,,,
+27/05/2020,84,68,Argentina,Buenos Aires,,13541,315,493,3,,,,,,,,,
+27/05/2020,84,68,Argentina,CABA,,13902,361,497,4,,,,,,,,,
+27/05/2020,84,68,Argentina,Chaco,,13918,16,499,2,,,,,,,,,
+27/05/2020,84,68,Argentina,Chubut,,13918,0,499,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Córdoba,,13918,0,500,1,,,,,,,,,
+27/05/2020,84,68,Argentina,Corrientes,,13920,2,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Entre Ríos,,13920,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,La Rioja,,13920,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Mendoza,,13920,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Misiones,,13920,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Neuquén,,13922,2,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Río Negro,,13930,8,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,San Juan,,13931,1,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Salta,,13931,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Santa Fe,Rosario,13931,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Santa Fe,,13931,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Tierra del Fuego,,13932,1,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Tucumán,,13932,0,500,0,,,,,,,,,
+27/05/2020,84,68,Argentina,Indeterminado,,13932,0,500,0,4617,254,106456,120389,,,,,
+28/05/2020,85,69,Argentina,Buenos Aires,,14231,299,504,4,,,,,,,,,
+28/05/2020,85,69,Argentina,CABA,,14656,425,507,3,,,,,,,,,
+28/05/2020,85,69,Argentina,Chaco,,14684,28,508,1,,,,,,,,,
+28/05/2020,85,69,Argentina,Chubut,,14687,3,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Córdoba,,14686,-1,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Corrientes,,14687,1,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Entre Ríos,,14688,1,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Jujuy,,14689,1,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,La Rioja,,14689,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Mendoza,,14689,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Misiones,,14691,2,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Neuquén,,14694,3,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Río Negro,,14701,7,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,San Juan,,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Salta,,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Santa Fe,Rosario,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Santa Fe,,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Tierra del Fuego,,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Tucumán,,14701,0,508,0,,,,,,,,,
+28/05/2020,85,69,Argentina,Indeterminado,,14701,0,508,0,4788,259,110132,124834,,,,,
+29/05/2020,86,70,Argentina,Buenos Aires,,14974,273,513,5,,,,,,,,,
+29/05/2020,86,70,Argentina,CABA,,15375,401,519,6,,,,,,,,,
+29/05/2020,86,70,Argentina,Chaco,,15401,26,520,1,,,,,,,,,
+29/05/2020,86,70,Argentina,Chubut,,15401,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Córdoba,,15399,-2,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Corrientes,,15405,6,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Entre Ríos,,15405,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Jujuy,,15405,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,La Rioja,,15405,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Mendoza,,15405,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Misiones,,15405,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Neuquén,,15407,2,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Río Negro,,15419,12,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,San Juan,,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Salta,,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Santa Fe,Rosario,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Santa Fe,,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Tierra del Fuego,,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Tucumán,,15419,0,520,0,,,,,,,,,
+29/05/2020,86,70,Argentina,Indeterminado,,15419,0,520,0,5100,244,113314,128733,,,,,
+30/05/2020,87,71,Argentina,Buenos Aires,,15715,296,522,2,,,,,,,,,
+30/05/2020,87,71,Argentina,CABA,,16174,459,524,2,,,,,,,,,
+30/05/2020,87,71,Argentina,Chaco,,16198,24,528,4,,,,,,,,,
+30/05/2020,87,71,Argentina,Chubut,,16200,2,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Córdoba,,16200,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Corrientes,,16200,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Entre Ríos,,16201,1,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Jujuy,,16201,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,La Rioja,,16201,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Mendoza,,16204,3,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Misiones,,16204,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Neuquén,,16205,1,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Río Negro,,16210,5,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,San Juan,,16210,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Salta,,16211,1,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Santa Fe,San Lorenzo,16212,1,528,0,,,,,,,,"Con respecto a los 2 casos nuevos: 1 caso corresponde a la localidad de Villa Ocampo y 1 caso
+corresponde a la localidad de San Lorenzo, el cual se encuentra aislado en otra jurisdicción (Chaco).",
+30/05/2020,87,71,Argentina,Santa Fe,Villa Ocampo,16213,1,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Tierra del Fuego,,16213,0,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Tucumán,,16214,1,528,0,,,,,,,,,
+30/05/2020,87,71,Argentina,Indeterminado,,16214,0,528,0,5336,256,116215,132429,,,,,
+31/05/2020,88,72,Argentina,Buenos Aires,,16468,254,534,6,,,,,,,,,
+31/05/2020,88,72,Argentina,CABA,,16826,358,539,5,,,,,,,,,
+31/05/2020,88,72,Argentina,Chaco,,16839,13,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Chubut,,16839,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Córdoba,,16841,2,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Corrientes,,16842,1,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Entre Ríos,,16842,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Jujuy,,16842,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,La Rioja,,16842,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Mendoza,,16842,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Misiones,,16843,1,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Neuquén,,16846,3,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Río Negro,,16850,4,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,San Juan,,16850,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Salta,,16850,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Santa Cruz,,16851,1,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Santa Fe,,16851,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Tierra del Fuego,,16851,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Tucumán,,16851,0,539,0,,,,,,,,,
+31/05/2020,88,72,Argentina,Indeterminado,,16851,0,539,0,5521,272,118816,135667,,,,,
+1/06/2020,89,73,Argentina,Buenos Aires,,17103,252,544,5,,,,,,,,,
+1/06/2020,89,73,Argentina,CABA,,17377,274,552,8,,,,,,,,,
+1/06/2020,89,73,Argentina,Chaco,,17380,3,555,3,,,,,,,,,
+1/06/2020,89,73,Argentina,Chubut,,17380,0,555,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Córdoba,,17380,0,556,1,,,,,,,,,
+1/06/2020,89,73,Argentina,Corrientes,,17386,6,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Entre Ríos,,17386,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Jujuy,,17386,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,La Rioja,,17386,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Mendoza,,17394,8,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Misiones,,17394,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Neuquén,,17397,3,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Río Negro,,17408,11,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,San Juan,,17408,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Salta,,17411,3,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Santa Cruz,,17412,1,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Santa Fe,Villa Ocampo,17415,3,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Tierra del Fuego,,17415,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Tucumán,,17415,0,556,0,,,,,,,,,
+1/06/2020,89,73,Argentina,Indeterminado,,17415,0,556,0,5709,271,121411,138826,,,,,
+2/06/2020,90,74,Argentina,Buenos Aires,,17903,488,564,8,,,,,,,,,
+2/06/2020,90,74,Argentina,CABA,,18274,371,567,3,,,,,,,,,
+2/06/2020,90,74,Argentina,Chaco,,18304,30,569,2,,,,,,,,,
+2/06/2020,90,74,Argentina,Chubut,,18304,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Córdoba,,18305,1,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Corrientes,,18307,2,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Entre Ríos,,18309,2,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Jujuy,,18309,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,La Rioja,,18309,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Mendoza,,18309,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Misiones,,18309,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Neuquén,,18312,3,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Río Negro,,18315,3,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,San Juan,,18315,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Salta,,18319,4,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Santa Cruz,,18319,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Santa Fe,,18319,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Tierra del Fuego,,18319,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Tucumán,,18319,0,569,0,,,,,,,,,
+2/06/2020,90,74,Argentina,Indeterminado,,18319,0,569,0,5896,288,124692,143011,,,,,
+3/06/2020,91,75,Argentina,Buenos Aires,,18761,442,575,6,,,,,,,,,
+3/06/2020,91,75,Argentina,CABA,,19228,467,580,5,,,,,,,,,
+3/06/2020,91,75,Argentina,Chaco,,19234,6,581,1,,,,,,,,,
+3/06/2020,91,75,Argentina,Chubut,,19235,1,581,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Córdoba,,19236,1,582,1,,,,,,,,,
+3/06/2020,91,75,Argentina,Corrientes,,19236,0,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Entre Ríos,,19238,2,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Jujuy,,19238,0,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,La Rioja,,19238,0,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Mendoza,,19238,0,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Misiones,,19239,1,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Neuquén,,19249,10,582,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Río Negro,,19265,16,583,1,,,,,,,,,
+3/06/2020,91,75,Argentina,San Juan,,19265,0,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Salta,,19265,0,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Santa Cruz,,19265,0,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Santa Fe,Villa Ocampo,19268,3,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Tierra del Fuego,,19268,0,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Tucumán,,19268,0,583,0,,,,,,,,,
+3/06/2020,91,75,Argentina,Indeterminado,,19268,0,583,0,5993,293,128031,147299,,,,,
+4/06/2020,92,76,Argentina,Buenos Aires,,19690,422,594,11,,,,,,,,,
+4/06/2020,92,76,Argentina,CABA,,20127,437,606,12,,,,,,,,,
+4/06/2020,92,76,Argentina,Chaco,,20180,53,607,1,,,,,,,,,
+4/06/2020,92,76,Argentina,Chubut,,20180,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Córdoba,,20182,2,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Corrientes,,20182,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Entre Ríos,,20182,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Jujuy,,20182,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,La Rioja,,20182,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Mendoza,,20182,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Misiones,,20184,2,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Neuquén,,20184,0,607,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Río Negro,,20192,8,608,1,,,,,,,,,
+4/06/2020,92,76,Argentina,San Juan,,20192,0,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Salta,,20192,0,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Santa Cruz,,20192,0,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Santa Fe,Villa Ocampo,20196,4,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Santa Fe,Reconquista,20197,1,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Tierra del Fuego,,20197,0,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Tucumán,,20197,0,608,0,,,,,,,,,
+4/06/2020,92,76,Argentina,Indeterminado,,20197,0,608,0,6088,248,131608,151805,,,,,
+5/06/2020,93,77,Argentina,Buenos Aires,,20568,371,616,8,,,,,,,,,
+5/06/2020,93,77,Argentina,CABA,,20988,420,631,15,,,,,,,,,
+5/06/2020,93,77,Argentina,Chaco,,21017,29,632,1,,,,,,,,,
+5/06/2020,93,77,Argentina,Chubut,,21020,3,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Córdoba,,21022,2,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Corrientes,,21022,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Entre Ríos,,21026,4,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Jujuy,,21026,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,La Rioja,,21026,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Mendoza,,21027,1,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Misiones,,21027,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Neuquén,,21028,1,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Río Negro,,21036,8,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,San Juan,,21036,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Salta,,21036,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Santa Cruz,,21036,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Santa Fe,Villa Constitución,21037,1,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Tierra del Fuego,,21037,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Tucumán,,21037,0,632,0,,,,,,,,,
+5/06/2020,93,77,Argentina,Indeterminado,,21037,0,632,0,6180,249,134642,155679,,,,,
+6/06/2020,94,78,Argentina,Buenos Aires,,21495,458,634,2,,,,,,,,,
+6/06/2020,94,78,Argentina,CABA,,21972,477,647,13,,,,,,,,,
+6/06/2020,94,78,Argentina,Chaco,,21991,19,647,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Chubut,,21992,1,647,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Córdoba,,21991,-1,648,1,,,,,,,,,
+6/06/2020,94,78,Argentina,Corrientes,,21991,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Entre Ríos,,22001,10,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Jujuy,,22001,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,La Rioja,,22001,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Mendoza,,22000,-1,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Misiones,,22002,2,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Neuquén,,22003,1,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Río Negro,,22018,15,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,San Juan,,22018,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Salta,,22018,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Santa Cruz,,22018,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Santa Fe,Villa Ocampo,22020,2,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Tierra del Fuego,,22020,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Tucumán,,22020,0,648,0,,,,,,,,,
+6/06/2020,94,78,Argentina,Indeterminado,,22020,0,648,0,6909,247,137840,159860,,,,,
+7/06/2020,95,79,Argentina,Buenos Aires,,22395,375,657,9,,,,,,,,,
+7/06/2020,95,79,Argentina,CABA,,22754,359,661,4,,,,,,,,,
+7/06/2020,95,79,Argentina,Chaco,,22772,18,662,1,,,,,,,,,
+7/06/2020,95,79,Argentina,Chubut,,22777,5,662,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Córdoba,,22777,0,662,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Corrientes,,22777,0,662,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Entre Ríos,,22779,2,662,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Jujuy,,22779,0,662,0,,,,,,,,,
+7/06/2020,95,79,Argentina,La Rioja,,22780,1,663,1,,,,,,,,,
+7/06/2020,95,79,Argentina,Mendoza,,22780,0,663,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Misiones,,22783,3,663,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Neuquén,,22783,0,663,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Río Negro,,22793,10,664,1,,,,,,,,,
+7/06/2020,95,79,Argentina,San Juan,,22793,0,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Salta,,22794,1,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Santa Cruz,,22794,0,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Santa Fe,Villa Ocampo,22794,0,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Tierra del Fuego,,22794,0,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Tucumán,,22794,0,664,0,,,,,,,,,
+7/06/2020,95,79,Argentina,Indeterminado,,22794,0,664,0,7305,253,140402,163196,,,,,
+8/06/2020,96,80,Argentina,Buenos Aires,,23139,345,680,16,,,,,,,,,
+8/06/2020,96,80,Argentina,CABA,,23559,420,689,9,,,,,,,,,
+8/06/2020,96,80,Argentina,Chaco,,23604,45,690,1,,,,,,,,,
+8/06/2020,96,80,Argentina,Chubut,,23605,1,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Córdoba,,23606,1,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Corrientes,,23606,0,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Entre Ríos,,23608,2,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Jujuy,,23608,0,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,La Rioja,,23608,0,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Mendoza,,23609,1,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Misiones,,23609,0,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Neuquén,,23609,0,690,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Río Negro,,23620,11,692,2,,,,,,,,,
+8/06/2020,96,80,Argentina,San Juan,,23620,0,692,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Salta,,23620,0,692,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Santa Cruz,,23620,0,692,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Santa Fe,Villa Ocampo,23621,1,692,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Tierra del Fuego,,23621,0,692,0,,,,,,,,,
+8/06/2020,96,80,Argentina,Tucumán,,23621,0,693,1,,,,,,,,,
+8/06/2020,96,80,Argentina,Indeterminado,,23621,0,693,0,7568,265,143482,167102,,,,,
+9/06/2020,97,81,Argentina,Buenos Aires,,24166,545,706,13,,,,,,,,,
+9/06/2020,97,81,Argentina,CABA,,24701,535,714,8,,,,,,,,,
+9/06/2020,97,81,Argentina,Chaco,,24729,28,716,2,,,,,,,,,
+9/06/2020,97,81,Argentina,Chubut,,24734,5,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Córdoba,,24736,2,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Corrientes,,24737,1,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Entre Ríos,,24739,2,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Jujuy,,24741,2,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,La Rioja,,24741,0,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Mendoza,,24742,1,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Misiones,,24742,0,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Neuquén,,24747,5,716,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Río Negro,,24760,13,717,1,,,,,,,,,
+9/06/2020,97,81,Argentina,San Juan,,24760,0,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Salta,,24760,0,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Santa Cruz,,24760,0,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Santa Fe,La Hortensia,24762,2,717,0,,,,,,,https://www.santafe.gob.ar/ms/covid19/wp-content/uploads/sites/36/2020/06/09-06-2020-19-hs-Parte-MSSF-Coronavirus.pdf,nacion dice 2 y la provincia de santa fe informa 3,
+9/06/2020,97,81,Argentina,Santa Fe,Ceres,24763,1,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Tierra del Fuego,,24763,0,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Tucumán,,24763,0,717,0,,,,,,,,,
+9/06/2020,97,81,Argentina,Indeterminado,,24763,0,717,0,7991,263,147178,171939,,,,,
+10/06/2020,98,82,Argentina,Buenos Aires,,25385,622,724,7,,,,,,,,,
+10/06/2020,98,82,Argentina,CABA,,25907,522,735,11,,,,,,,,,
+10/06/2020,98,82,Argentina,Chaco,,25952,45,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Chubut,,25952,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Córdoba,,25957,5,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Corrientes,,25957,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Entre Ríos,,25961,4,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Jujuy,,25961,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,La Rioja,,25961,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Mendoza,,25961,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Misiones,,25961,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Neuquén,,25971,10,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Río Negro,,25983,12,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,San Juan,,25983,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Salta,,25984,1,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,San Juan,,25985,1,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Santa Fe,Ceres,25986,1,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Santa Fe,Cayasta,25987,1,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Santa Fe,Rosario,25988,1,735,0,,,,,,,https://www.santafe.gob.ar/ms/covid19/wp-content/uploads/sites/36/2020/06/10-06-2020-19-hs-Parte-MSSF-Coronavirus.pdf,solo se confirman dos casos en santa fe ese dia,
+10/06/2020,98,82,Argentina,Tierra del Fuego,,25988,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Tucumán,,25988,0,735,0,,,,,,,,,
+10/06/2020,98,82,Argentina,Indeterminado,,25988,0,735,0,8332,325,150755,176742,,,,,
+11/06/2020,99,83,Argentina,Buenos Aires,,26744,756,755,20,,,,,,,,,
+11/06/2020,99,83,Argentina,CABA,,27282,538,762,7,,,,,,,,,
+11/06/2020,99,83,Argentina,Chaco,,27330,48,763,1,,,,,,,,,
+11/06/2020,99,83,Argentina,Chubut,,27330,0,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Córdoba,,27333,3,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Corrientes,,27336,3,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Entre Ríos,,27342,6,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Jujuy,,27342,0,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,La Rioja,,27342,0,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Mendoza,,27343,1,763,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Misiones,,27344,1,764,1,,,,,,,,,
+11/06/2020,99,83,Argentina,Neuquén,,27358,14,764,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Río Negro,,27372,14,765,1,,,,,,,,,
+11/06/2020,99,83,Argentina,San Juan,,27372,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Salta,,27372,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,San Juan,,27372,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Santa Fe,,27372,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Santa Fe,Villa Ocampo,27373,1,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Santa Fe,Rosario,27374,1,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Tierra del Fuego,,27374,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Tucumán,,27374,0,765,0,,,,,,,,,
+11/06/2020,99,83,Argentina,Indeterminado,,27374,0,765,0,8743,295,154725,182098,,,,,
+12/06/2020,100,84,Argentina,Buenos Aires,,28118,744,776,11,,,,,,,,,
+12/06/2020,100,84,Argentina,CABA,,28683,565,780,4,,,,,,,,,
+12/06/2020,100,84,Argentina,Chaco,,28722,39,783,3,,,,,,,,,
+12/06/2020,100,84,Argentina,Chubut,,28726,4,784,1,,,,,,,,,
+12/06/2020,100,84,Argentina,Córdoba,,28735,9,785,1,,,,,,,,,
+12/06/2020,100,84,Argentina,Corrientes,,28735,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Entre Ríos,,28739,4,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Formosa,,28740,1,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Jujuy,,28740,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,La Rioja,,28740,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Mendoza,,28742,2,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Misiones,,28742,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Neuquén,,28748,6,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Río Negro,,28764,16,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,San Juan,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Salta,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,San Juan,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Santa Fe,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Santa Fe,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Santa Fe,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Tierra del Fuego,,28764,0,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Tucumán,,28765,1,785,0,,,,,,,,,
+12/06/2020,100,84,Argentina,Indeterminado,,28765,0,785,0,9083,280,158691,187455,,,,,
+13/06/2020,101,85,Argentina,Buenos Aires,,29614,849,804,19,,,,,,,,,
+13/06/2020,101,85,Argentina,CABA,,30172,558,811,7,,,,,,,,,
+13/06/2020,101,85,Argentina,Chaco,,30221,49,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Chubut,,30230,9,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Córdoba,,30236,6,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Corrientes,,30237,1,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Entre Ríos,,30239,2,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Formosa,,30265,26,811,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Jujuy,,30265,0,812,1,,,,,,,,,
+13/06/2020,101,85,Argentina,La Rioja,,30265,0,812,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Mendoza,,30265,0,812,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Misiones,,30265,0,812,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Neuquén,,30278,13,812,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Río Negro,,30291,13,815,3,,,,,,,,,
+13/06/2020,101,85,Argentina,San Juan,,30291,0,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Salta,,30293,2,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,San Juan,,30294,1,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Santa Fe,,30294,0,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Santa Fe,,30294,0,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Santa Fe,,30294,0,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Tierra del Fuego,,30294,0,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Tucumán,,30295,1,815,0,,,,,,,,,
+13/06/2020,101,85,Argentina,Indeterminado,,30295,0,815,0,9564,293,162346,192641,,,,,
+14/06/2020,102,86,Argentina,Buenos Aires,,30931,636,824,9,,,,,,,,,
+14/06/2020,102,86,Argentina,CABA,,31489,558,829,5,,,,,,,,,
+14/06/2020,102,86,Argentina,Chaco,,31516,27,832,3,,,,,,,,,
+14/06/2020,102,86,Argentina,Chubut,,31518,2,832,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Córdoba,,31524,6,833,1,,,,,,,,,
+14/06/2020,102,86,Argentina,Corrientes,,31526,2,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Entre Ríos,,31541,15,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Formosa,,31547,6,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Jujuy,,31547,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,La Pampa,,31548,1,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,La Rioja,,31548,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Mendoza,,31555,7,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Misiones,,31555,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Neuquén,,31564,9,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Río Negro,,31570,6,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,San Juan,,31570,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Salta,,31571,1,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,San Juan,,31571,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Santa Fe,,31571,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Santa Fe,,31571,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Santa Fe,,31571,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Tierra del Fuego,,31571,0,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Tucumán,,31577,6,833,0,,,,,,,,,
+14/06/2020,102,86,Argentina,Indeterminado,,31577,0,833,0,9891,,165611,197188,,,,,
+15/06/2020,103,87,Argentina,Buenos Aires,,32129,552,845,12,,,,,,,,,
+15/06/2020,103,87,Argentina,CABA,,32704,575,852,7,,,,,,,,,
+15/06/2020,103,87,Argentina,Chaco,,32742,38,852,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Chubut,,32764,22,852,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Córdoba,,32766,2,853,1,,,,,,,,,
+15/06/2020,103,87,Argentina,Corrientes,,32767,1,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Entre Ríos,,32769,2,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Formosa,,32769,0,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Jujuy,,32769,0,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,La Pampa,,32769,0,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,La Rioja,,32769,0,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Mendoza,,32769,0,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Misiones,,32770,1,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Neuquén,,32773,3,853,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Río Negro,,32785,12,854,1,,,,,,,,,
+15/06/2020,103,87,Argentina,San Juan,,32785,0,854,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Salta,,32785,0,854,0,,,,,,,,,
+15/06/2020,103,87,Argentina,San Juan,,32785,0,854,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Santa Fe,Rosario,32785,0,855,1,,,,,,,,,
+15/06/2020,103,87,Argentina,Santa Fe,,32785,0,855,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Santa Fe,,32785,0,855,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Tierra del Fuego,,32785,0,855,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Tucumán,,32785,0,855,0,,,,,,,,,
+15/06/2020,103,87,Argentina,Indeterminado,,32785,0,855,0,10174,324,168596,201381,,,,,
+16/06/2020,104,88,Argentina,Buenos Aires,,33582,797,862,7,,,,,,,,,
+16/06/2020,104,88,Argentina,CABA,,34070,488,872,10,,,,,,,,,
+16/06/2020,104,88,Argentina,Chaco,,34093,23,877,5,,,,,,,,,
+16/06/2020,104,88,Argentina,Chubut,,34094,1,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Córdoba,,34095,1,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Corrientes,,34096,1,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Entre Ríos,,34108,12,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Formosa,,34108,0,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Jujuy,,34108,0,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,La Pampa,,34108,0,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,La Rioja,,34108,0,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Mendoza,,34111,3,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Misiones,,34111,0,877,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Neuquén,,34139,28,878,1,,,,,,,,,
+16/06/2020,104,88,Argentina,Río Negro,,34156,17,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,San Juan,,34156,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Salta,,34156,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,San Juan,,34156,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Santa Fe,,34156,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Santa Fe,Cayastá,34158,2,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Santa Fe,Carreras,34159,1,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Tierra del Fuego,,34159,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Tucumán,,34159,0,878,0,,,,,,,,,
+16/06/2020,104,88,Argentina,Indeterminado,,34159,0,878,0,10512,345,171855,206014,,,,,
+17/06/2020,105,89,Argentina,Buenos Aires,,34958,799,890,12,,,,,,,,,
+17/06/2020,105,89,Argentina,CABA,,35480,522,913,23,,,,,,,,,
+17/06/2020,105,89,Argentina,Chaco,,35500,20,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Chubut,,35508,8,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Córdoba,,35514,6,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Corrientes,,35516,2,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Entre Ríos,,35521,5,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Formosa,,35521,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Jujuy,,35522,1,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,La Pampa,,35522,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,La Rioja,,35522,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Mendoza,,35523,1,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Misiones,,35523,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Neuquén,,35534,11,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Río Negro,,35548,14,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,San Juan,,35548,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Salta,,35549,1,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,San Juan,,35549,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Santa Fe,Ceres,35551,2,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Santa Fe,,35551,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Santa Fe,,35551,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Tierra del Fuego,,35551,0,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Tucumán,,35552,1,913,0,,,,,,,,,
+17/06/2020,105,89,Argentina,Indeterminado,,35552,0,913,0,10721,353,175554,211106,,,,,
+18/06/2020,106,90,Argentina,Buenos Aires,,36659,1107,926,13,,,,,,,,,
+18/06/2020,106,90,Argentina,CABA,,37351,692,942,16,,,,,,,,,
+18/06/2020,106,90,Argentina,Chaco,,37419,68,944,2,,,,,,,,,
+18/06/2020,106,90,Argentina,Chubut,,37429,10,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Córdoba,,37438,9,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Corrientes,,37439,1,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Entre Ríos,,37445,6,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Formosa,,37449,4,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Jujuy,,37452,3,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,La Pampa,,37452,0,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,La Rioja,,37452,0,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Mendoza,,37455,3,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Misiones,,37455,0,944,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Neuquén,,37471,16,945,1,,,,,,,,,
+18/06/2020,106,90,Argentina,Río Negro,,37498,27,948,3,,,,,,,,,
+18/06/2020,106,90,Argentina,San Juan,,37498,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Salta,,37498,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,San Juan,,37498,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Santa Fe,,37509,11,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Santa Fe,,37509,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Santa Fe,,37509,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Tierra del Fuego,,37509,0,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Tucumán,,37510,1,948,0,,,,,,,,,
+18/06/2020,106,90,Argentina,Indeterminado,,37510,0,948,0,11977,364,180447,217957,,,,,
+19/06/2020,107,91,Argentina,Buenos Aires,,38628,1118,964,16,,,,,,,,,
+19/06/2020,107,91,Argentina,CABA,,39432,804,974,10,,,,,,,,,
+19/06/2020,107,91,Argentina,Chaco,,39463,31,978,4,,,,,,,,,
+19/06/2020,107,91,Argentina,Chubut,,39466,3,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Córdoba,,39485,19,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Corrientes,,39490,5,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Entre Ríos,,39494,4,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Formosa,,39494,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Jujuy,,39495,1,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,La Pampa,,39495,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,La Rioja,,39495,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Mendoza,,39498,3,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Misiones,,39498,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Neuquén,,39525,27,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Río Negro,,39559,34,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,San Juan,,39559,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Salta,,39559,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,San Juan,,39559,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Santa Fe,,39570,11,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Santa Fe,,39570,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Santa Fe,,39570,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Tierra del Fuego,,39570,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Tucumán,,39570,0,978,0,,,,,,,,,
+19/06/2020,107,91,Argentina,Indeterminado,,39570,0,978,0,12206,364,185302,224872,,,,,
+20/06/2020,108,92,Argentina,Buenos Aires,,40584,1014,984,6,,,,,,,,,
+20/06/2020,108,92,Argentina,CABA,,41096,512,991,7,,,,,,,,,
+20/06/2020,108,92,Argentina,Chaco,,41120,24,992,1,,,,,,,,,
+20/06/2020,108,92,Argentina,Chubut,,41123,3,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Córdoba,,41143,20,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Corrientes,,41144,1,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Entre Ríos,,41163,19,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Formosa,,41165,2,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Jujuy,,41165,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,La Pampa,,41165,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,La Rioja,,41165,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Mendoza,,41170,5,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Misiones,,41170,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Neuquén,,41179,9,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Río Negro,,41198,19,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,San Juan,,41198,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Salta,,41198,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,San Juan,,41198,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Santa Fe,,41204,6,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Santa Fe,,41204,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Santa Fe,,41204,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Tierra del Fuego,,41204,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Tucumán,,41204,0,992,0,,,,,,,,,
+20/06/2020,108,92,Argentina,Indeterminado,,41204,0,992,0,12728,381,188852,230056,,,,,
+21/06/2020,109,93,Argentina,Buenos Aires,,41950,746,1001,9,,,,,,,,,
+21/06/2020,109,93,Argentina,CABA,,42657,707,1009,8,,,,,,,,,
+21/06/2020,109,93,Argentina,Chaco,,42709,52,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Chubut,,42715,6,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Córdoba,,42728,13,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Corrientes,,42728,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Entre Ríos,,42738,10,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Formosa,,42738,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Jujuy,,42738,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,La Pampa,,42738,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,La Rioja,,42738,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Mendoza,,42743,5,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Misiones,,42743,0,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Neuquén,,42752,9,1009,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Río Negro,,42768,16,1011,2,,,,,,,,,
+21/06/2020,109,93,Argentina,San Juan,,42768,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Salta,,42768,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,San Juan,,42768,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Santa Fe,,42785,17,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Santa Fe,,42785,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Santa Fe,,42785,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Tierra del Fuego,,42785,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Tucumán,,42785,0,1011,0,,,,,,,,,
+21/06/2020,109,93,Argentina,Indeterminado,,42785,0,1011,0,13153,397,192544,235329,,,,,
+22/06/2020,110,94,Argentina,Buenos Aires,,43822,1037,1019,8,,,,,,,,,
+22/06/2020,110,94,Argentina,CABA,,44847,1025,1037,18,,,,,,,,,
+22/06/2020,110,94,Argentina,Chaco,,44867,20,1038,1,,,,,,,,,
+22/06/2020,110,94,Argentina,Chubut,,44872,5,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Córdoba,,44883,11,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Corrientes,,44883,0,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Entre Ríos,,44899,16,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Formosa,,44899,0,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Jujuy,,44901,2,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,La Pampa,,44901,0,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,La Rioja,,44901,0,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Mendoza,,44904,3,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Misiones,,44904,0,1038,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Neuquén,,44915,11,1039,1,,,,,,,,,
+22/06/2020,110,94,Argentina,Río Negro,,44923,8,1043,4,,,,,,,,,
+22/06/2020,110,94,Argentina,San Juan,,44924,1,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Salta,,44925,1,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,San Juan,,44925,0,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Santa Fe,,44930,5,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Santa Fe,,44930,0,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Santa Fe,,44930,0,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Tierra del Fuego,,44930,0,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Tucumán,,44931,1,1043,0,,,,,,,,,
+22/06/2020,110,94,Argentina,Indeterminado,,44931,0,1043,0,13576,414,196839,241770,,,,,
+23/06/2020,111,95,Argentina,Buenos Aires,,46265,1334,1058,15,,,,,,,,,
+23/06/2020,111,95,Argentina,CABA,,47024,759,1075,17,,,,,,,,,
+23/06/2020,111,95,Argentina,Chaco,,47079,55,1076,1,,,,,,,,,
+23/06/2020,111,95,Argentina,Chubut,,47081,2,1076,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Córdoba,,47104,23,1077,1,,,,,,,,,
+23/06/2020,111,95,Argentina,Corrientes,,47104,0,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Entre Ríos,,47121,17,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Formosa,,47127,6,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Jujuy,,47130,3,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,La Pampa,,47130,0,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,La Rioja,,47131,1,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Mendoza,,47139,8,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Misiones,,47139,0,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Neuquén,,47168,29,1077,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Río Negro,,47187,19,1078,1,,,,,,,,,
+23/06/2020,111,95,Argentina,San Juan,,47187,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Salta,,47187,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,San Juan,,47187,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Santa Cruz,,47187,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Santa Fe,,47216,29,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Santa Fe,,47216,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Tierra del Fuego,,47216,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Tucumán,,47216,0,1078,0,,,,,,,,,
+23/06/2020,111,95,Argentina,Indeterminado,,47216,0,1078,0,13816,433,202380,249596,,,,,
+24/06/2020,112,96,Argentina,Buenos Aires,,48679,1463,1099,21,,,,,,,,,
+24/06/2020,112,96,Argentina,CABA,,49691,1012,1109,10,,,,,,,,,
+24/06/2020,112,96,Argentina,Chaco,,49728,37,1111,2,,,,,,,,,
+24/06/2020,112,96,Argentina,Chubut,,49730,2,1111,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Córdoba,,49732,2,1112,1,,,,,,,,,
+24/06/2020,112,96,Argentina,Corrientes,,49732,0,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Entre Ríos,,49756,24,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Formosa,,49756,0,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Jujuy,,49782,26,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,La Pampa,,49783,1,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,La Rioja,,49790,7,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Mendoza,,49798,8,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Misiones,,49798,0,1112,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Neuquén,,49810,12,1113,1,,,,,,,,,
+24/06/2020,112,96,Argentina,Río Negro,,49834,24,1114,1,,,,,,,,,
+24/06/2020,112,96,Argentina,San Juan,,49834,0,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Salta,,49837,3,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,San Juan,,49837,0,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Santa Cruz,,49837,0,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Santa Fe,,49841,4,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Santa Fe,,49841,0,1114,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Tierra del Fuego,,49841,0,1115,1,,,,,,,,,
+24/06/2020,112,96,Argentina,Tucumán,,49851,10,1115,0,,,,,,,,,
+24/06/2020,112,96,Argentina,Indeterminado,,49851,0,1115,0,14788,457,207399,257250,,,,,
+25/06/2020,113,97,Argentina,Buenos Aires,,51333,1482,1130,15,,,,,,,,,
+25/06/2020,113,97,Argentina,CABA,,52275,942,1145,15,,,,,,,,,
+25/06/2020,113,97,Argentina,Chaco,,52336,61,1147,2,,,,,,,,,
+25/06/2020,113,97,Argentina,Chubut,,52337,1,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Córdoba,,52343,6,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Corrientes,,52343,0,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Entre Ríos,,52360,17,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Formosa,,52360,0,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Jujuy,,52361,1,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,La Pampa,,52361,0,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,La Rioja,,52363,2,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Mendoza,,52364,1,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Misiones,,52365,1,1147,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Neuquén,,52385,20,1149,2,,,,,,,,,
+25/06/2020,113,97,Argentina,Río Negro,,52435,50,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,San Juan,,52435,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Salta,,52435,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,San Juan,,52435,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Santa Cruz,,52435,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Santa Fe,,52456,21,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Santa Fe,,52456,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Tierra del Fuego,,52456,0,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Tucumán,,52457,1,1149,0,,,,,,,,,
+25/06/2020,113,97,Argentina,Indeterminado,,52457,0,1149,0,18416,472,212323,264780,,,,,
+26/06/2020,114,98,Argentina,Buenos Aires,,54149,1692,1173,24,,,,,,,,,
+26/06/2020,114,98,Argentina,CABA,,55117,968,1181,8,,,,,,,,,
+26/06/2020,114,98,Argentina,Chaco,,55193,76,1183,2,,,,,,,,,
+26/06/2020,114,98,Argentina,Chubut,,55203,10,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Córdoba,,55211,8,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Corrientes,,55211,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Entre Ríos,,55230,19,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Formosa,,55255,25,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Jujuy,,55282,27,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,La Pampa,,55282,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,La Rioja,,55283,1,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Mendoza,,55286,3,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Misiones,,55286,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Neuquén,,55317,31,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Río Negro,,55330,13,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,San Juan,,55330,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Salta,,55330,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,San Juan,,55330,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Santa Cruz,,55330,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Santa Fe,,55342,12,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Santa Fe,,55342,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Tierra del Fuego,,55342,0,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Tucumán,,55343,1,1183,0,,,,,,,,,
+26/06/2020,114,98,Argentina,Indeterminado,,55343,0,1183,0,19143,507,217766,273109,,,,,
+27/06/2020,115,99,Argentina,Buenos Aires,,56767,1424,1196,13,,,,,,,,,
+27/06/2020,115,99,Argentina,CABA,,57616,849,1206,10,,,,,,,,,
+27/06/2020,115,99,Argentina,Chaco,,57668,52,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Chubut,,57668,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Córdoba,,57683,15,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Corrientes,,57684,1,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Entre Ríos,,57696,12,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Formosa,,57696,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Jujuy,,57699,3,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,La Pampa,,57699,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,La Rioja,,57700,1,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Mendoza,,57706,6,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Misiones,,57706,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Neuquén,,57722,16,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Río Negro,,57736,14,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,San Juan,,57736,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Salta,,57738,2,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,San Juan,,57738,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Santa Cruz,,57738,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Santa Fe,,57743,5,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Santa Fe,,57743,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Tierra del Fuego,,57743,0,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Tucumán,,57744,1,1206,0,,,,,,,,,
+27/06/2020,115,99,Argentina,Indeterminado,,57744,0,1206,0,20134,523,222329,280073,,,,,
+28/06/2020,116,100,Argentina,Buenos Aires,,58969,1225,1217,11,,,,,,,,,
+28/06/2020,116,100,Argentina,CABA,,59821,852,1229,12,,,,,,,,,
+28/06/2020,116,100,Argentina,Chaco,,59868,47,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Chubut,,59873,5,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Córdoba,,59878,5,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Corrientes,,59878,0,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Entre Ríos,,59902,24,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Formosa,,59902,0,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Jujuy,,59902,0,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,La Pampa,,59902,0,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,La Rioja,,59902,0,1229,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Mendoza,,59908,6,1230,1,,,,,,,,,
+28/06/2020,116,100,Argentina,Misiones,,59908,0,1230,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Neuquén,,59920,12,1231,1,,,,,,,,,
+28/06/2020,116,100,Argentina,Río Negro,,59926,6,1232,1,,,,,,,,,
+28/06/2020,116,100,Argentina,San Juan,,59926,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Salta,,59926,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,San Juan,,59926,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Santa Cruz,,59926,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Santa Fe,,59932,6,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Santiago del Estero,,59933,1,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Tierra del Fuego,,59933,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Tucumán,,59933,0,1232,0,,,,,,,,,
+28/06/2020,116,100,Argentina,Indeterminado,,59933,0,1232,0,21138,535,226138,286071,,,,,
+29/06/2020,117,101,Argentina,Buenos Aires,,61212,1279,1253,21,,,,,,,,,
+29/06/2020,117,101,Argentina,CABA,,62156,944,1276,23,,,,,,,,,
+29/06/2020,117,101,Argentina,Chaco,,62187,31,1278,2,,,,,,,,,
+29/06/2020,117,101,Argentina,Chubut,,62188,1,1278,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Córdoba,,62190,2,1279,1,,,,,,,,,
+29/06/2020,117,101,Argentina,Corrientes,,62192,2,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Entre Ríos,,62197,5,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Formosa,,62197,0,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Jujuy,,62213,16,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,La Pampa,,62213,0,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,La Rioja,,62217,4,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Mendoza,,62218,1,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Misiones,,62219,1,1279,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Neuquén,,62237,18,1280,1,,,,,,,,,
+29/06/2020,117,101,Argentina,Río Negro,,62261,24,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,San Juan,,62261,0,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Salta,,62264,3,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,San Juan,,62264,0,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Santa Cruz,,62264,0,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Santa Fe,,62267,3,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Santiago del Estero,,62268,1,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Tierra del Fuego,,62268,0,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Tucumán,,62268,0,1280,0,,,,,,,,,
+29/06/2020,117,101,Argentina,Indeterminado,,62268,0,1280,0,22028,555,231088,293356,,,,,
+30/06/2020,118,102,Argentina,Buenos Aires,,63642,1374,1293,13,,,,,,,,,
+30/06/2020,118,102,Argentina,CABA,,64386,744,1305,12,,,,,,,,,
+30/06/2020,118,102,Argentina,Chaco,,64456,70,1307,2,,,,,,,,,
+30/06/2020,118,102,Argentina,Chubut,,64464,8,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Córdoba,,64475,11,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Corrientes,,64475,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Entre Ríos,,64481,6,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Formosa,,64481,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Jujuy,,64487,6,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,La Pampa,,64487,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,La Rioja,,64491,4,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Mendoza,,64495,4,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Misiones,,64495,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Neuquén,,64513,18,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Río Negro,,64528,15,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,San Juan,,64528,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Salta,,64529,1,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,San Juan,,64529,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Santa Cruz,,64529,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Santa Fe,,64530,1,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Santiago del Estero,,64530,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Tierra del Fuego,,64530,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Tucumán,,64530,0,1307,0,,,,,,,,,
+30/06/2020,118,102,Argentina,Indeterminado,,64530,0,1307,0,23040,576,235617,300147,,,,,
+1/07/2020,119,103,Argentina,Buenos Aires,,66202,1672,1334,27,,,,,,,,,
+1/07/2020,119,103,Argentina,CABA,,67043,841,1347,13,,,,,,,,,
+1/07/2020,119,103,Argentina,Chaco,,67103,60,1350,3,,,,,,,,,
+1/07/2020,119,103,Argentina,Chubut,,67111,8,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Córdoba,,67122,11,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Corrientes,,67123,1,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Entre Ríos,,67132,9,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Formosa,,67136,4,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Jujuy,,67153,17,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,La Pampa,,67153,0,1350,0,,,,,,,,,
+1/07/2020,119,103,Argentina,La Rioja,,67154,1,1351,1,,,,,,,,,
+1/07/2020,119,103,Argentina,Mendoza,,67161,7,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Misiones,,67161,0,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Neuquén,,67173,12,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Río Negro,,67186,13,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,San Juan,,67186,0,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Salta,,67188,2,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,San Juan,,67188,0,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Santa Cruz,,67188,0,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Santa Fe,,67189,1,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Santiago del Estero,,67190,1,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Tierra del Fuego,,67190,0,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Tucumán,,67197,7,1351,0,,,,,,,,,
+1/07/2020,119,103,Argentina,Indeterminado,,67197,0,1351,0,24186,594,240610,307807,,,,,
+2/07/2020,120,104,Argentina,Buenos Aires,,68930,1733,1372,21,,,,,,,,,
+2/07/2020,120,104,Argentina,CABA,,69770,840,1383,11,,,,,,,,,
+2/07/2020,120,104,Argentina,Chaco,,69851,81,1385,2,,,,,,,,,
+2/07/2020,120,104,Argentina,Chubut,,69851,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Córdoba,,69859,8,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Corrientes,,69859,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Entre Ríos,,69873,14,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Formosa,,69874,1,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Jujuy,,69888,14,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,La Pampa,,69888,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,La Rioja,,69891,3,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Mendoza,,69893,2,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Misiones,,69893,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Neuquén,,69905,12,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Río Negro,,69939,34,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,San Juan,,69939,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Salta,,69939,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,San Juan,,69939,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Santa Cruz,,69939,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Santa Fe,,69941,2,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Santiago del Estero,,69941,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Tierra del Fuego,,69941,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Tucumán,,69941,0,1385,0,,,,,,,,,
+2/07/2020,120,104,Argentina,Indeterminado,,69941,0,1385,0,25224,620,245115,315056,,,,,
+3/07/2020,121,105,Argentina,Buenos Aires,,71790,1849,1411,26,,,,,,,,,
+3/07/2020,121,105,Argentina,CABA,,72625,835,1433,22,,,,,,,,,
+3/07/2020,121,105,Argentina,Catamarca,,72626,1,1433,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Chaco,,72663,37,1436,3,,,,,,,,,
+3/07/2020,121,105,Argentina,Chubut,,72675,12,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Córdoba,,72683,8,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Corrientes,,72683,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Entre Ríos,,72694,11,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Formosa,,72694,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Jujuy,,72714,20,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,La Pampa,,72714,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,La Rioja,,72717,3,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Mendoza,,72720,3,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Misiones,,72720,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Neuquén,,72748,28,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Río Negro,,72771,23,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,San Juan,,72771,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Salta,,72779,8,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,San Juan,,72779,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Santa Cruz,,72779,0,1436,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Santa Fe,,72784,5,1437,1,,,,,,,,,
+3/07/2020,121,105,Argentina,Santiago del Estero,,72784,0,1437,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Tierra del Fuego,,72784,0,1437,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Tucumán,,72786,2,1437,0,,,,,,,,,
+3/07/2020,121,105,Argentina,Indeterminado,,72786,0,1437,0,25930,637,249794,322580,,,,,
+4/07/2020,122,106,Argentina,Buenos Aires,,74302,1516,1463,26,,,,,,,,,
+4/07/2020,122,106,Argentina,CABA,,75202,900,1476,13,,,,,,,,,
+4/07/2020,122,106,Argentina,Catamarca,,75207,5,1476,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Chaco,,75260,53,1479,3,,,,,,,,,
+4/07/2020,122,106,Argentina,Chubut,,75260,0,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Córdoba,,75273,13,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Corrientes,,75273,0,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Entre Ríos,,75278,5,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Formosa,,75278,0,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Jujuy,,75292,14,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,La Pampa,,75292,0,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,La Rioja,,75297,5,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Mendoza,,75301,4,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Misiones,,75301,0,1479,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Neuquén,,75321,20,1480,1,,,,,,,,,
+4/07/2020,122,106,Argentina,Río Negro,,75349,28,1480,0,,,,,,,,,
+4/07/2020,122,106,Argentina,San Juan,,75349,0,1480,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Salta,,75365,16,1480,0,,,,,,,,,
+4/07/2020,122,106,Argentina,San Luis,,75366,1,1480,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Santa Cruz,,75366,0,1480,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Santa Fe,,75371,5,1481,1,,,,,,,,,
+4/07/2020,122,106,Argentina,Santiago del Estero,,75371,0,1481,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Tierra del Fuego,,75375,4,1481,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Tucumán,,75376,1,1481,0,,,,,,,,,
+4/07/2020,122,106,Argentina,Indeterminado,,75376,0,1481,0,27597,658,254498,329874,,,,,
+5/07/2020,123,107,Argentina,Buenos Aires,,76940,1564,1493,12,,,,,,,,,
+5/07/2020,123,107,Argentina,CABA,,77707,767,1503,10,,,,,,,,,
+5/07/2020,123,107,Argentina,Catamarca,,77707,0,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Chaco,,77754,47,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Chubut,,77760,6,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Córdoba,,77774,14,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Corrientes,,77775,1,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Entre Ríos,,77781,6,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Formosa,,77781,0,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Jujuy,,77782,1,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,La Pampa,,77782,0,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,La Rioja,,77788,6,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Mendoza,,77795,7,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Misiones,,77795,0,1503,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Neuquén,,77804,9,1506,3,,,,,,,,,
+5/07/2020,123,107,Argentina,Río Negro,,77807,3,1507,1,,,,,,,,,
+5/07/2020,123,107,Argentina,San Juan,,77807,0,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Salta,,77809,2,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,San Luis,,77809,0,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Santa Cruz,,77809,0,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Santa Fe,,77812,3,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Santiago del Estero,,77812,0,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Tierra del Fuego,,77812,0,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Tucumán,,77815,3,1507,0,,,,,,,,,
+5/07/2020,123,107,Argentina,Indeterminado,,77815,0,1507,0,28531,676,258025,335840,,,,,
+6/07/2020,124,108,Argentina,Buenos Aires,,79291,1476,1561,54,,,,,,,,,
+6/07/2020,124,108,Argentina,CABA,,80286,995,1575,14,,,,,,,,,
+6/07/2020,124,108,Argentina,Catamarca,,80287,1,1575,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Chaco,,80313,26,1577,2,,,,,,,,,
+6/07/2020,124,108,Argentina,Chubut,,80319,6,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Córdoba,,80347,28,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Corrientes,,80348,1,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Entre Ríos,,80353,5,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Formosa,,80353,0,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Jujuy,,80382,29,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,La Pampa,,80382,0,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,La Rioja,,80387,5,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Mendoza,,80391,4,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Misiones,,80393,2,1577,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Neuquén,,80427,34,1578,1,,,,,,,,,
+6/07/2020,124,108,Argentina,Río Negro,,80434,7,1581,3,,,,,,,,,
+6/07/2020,124,108,Argentina,Salta,,80436,2,1581,0,,,,,,,,,
+6/07/2020,124,108,Argentina,San Juan,,80437,1,1582,1,,,,,,,,,
+6/07/2020,124,108,Argentina,San Luis,,80437,0,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Santa Cruz,,80441,4,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Santa Fe,,80446,5,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Santiago del Estero,,80447,1,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Tierra del Fuego,,80447,0,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Tucumán,,80447,0,1582,0,,,,,,,,,
+6/07/2020,124,108,Argentina,Indeterminado,,80447,0,1582,0,30095,688,262367,342814,,,,,
+7/07/2020,125,109,Argentina,Buenos Aires,,82199,1752,1621,39,,,,,,,,,
+7/07/2020,125,109,Argentina,CABA,,83224,1025,1642,21,,,,,,,,,
+7/07/2020,125,109,Argentina,Catamarca,,83224,0,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Chaco,,83246,22,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Chubut,,83246,0,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Córdoba,,83294,48,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Corrientes,,83295,1,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Entre Ríos,,83305,10,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Formosa,,83305,0,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Jujuy,,83335,30,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,La Pampa,,83335,0,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,La Rioja,,83338,3,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Mendoza,,83361,23,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Misiones,,83361,0,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Neuquén,,83383,22,1642,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Río Negro,,83408,25,1643,1,,,,,,,,,
+7/07/2020,125,109,Argentina,Salta,,83416,8,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,San Juan,,83416,0,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,San Luis,,83416,0,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Santa Cruz,,83416,0,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Santa Fe,,83425,9,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Santiago del Estero,,83426,1,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Tierra del Fuego,,83426,0,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Tucumán,,83426,0,1643,0,,,,,,,,,
+7/07/2020,125,109,Argentina,Indeterminado,,83426,0,1643,0,36502,646,266938,350364,,,,,
+8/07/2020,126,110,Argentina,Buenos Aires,,85648,2222,1678,35,,,,,,,,,
+8/07/2020,126,110,Argentina,CABA,,86764,1116,1694,16,,,,,,,,,
+8/07/2020,126,110,Argentina,Catamarca,,86785,21,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Chaco,,86844,59,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Chubut,,86857,13,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Córdoba,,86878,21,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Corrientes,,86882,4,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Entre Ríos,,86893,11,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Formosa,,86893,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Jujuy,,86931,38,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,La Pampa,,86931,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,La Rioja,,86945,14,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Mendoza,,86967,22,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Misiones,,86967,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Neuquén,,86990,23,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Río Negro,,87001,11,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Salta,,87007,6,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,San Juan,,87007,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,San Luis,,87007,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Santa Cruz,,87007,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Santa Fe,,87021,14,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Santiago del Estero,,87029,8,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Tierra del Fuego,,87029,0,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Tucumán,,87030,1,1694,0,,,,,,,,,
+8/07/2020,126,110,Argentina,Indeterminado,,87030,0,1694,0,38313,671,272349,359379,,,,,
+9/07/2020,127,111,Argentina,Buenos Aires,,89402,2372,1705,11,,,,,,,,,
+9/07/2020,127,111,Argentina,CABA,,90460,1058,1715,10,,,,,,,,,
+9/07/2020,127,111,Argentina,Catamarca,,90470,10,1715,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Chaco,,90500,30,1719,4,,,,,,,,,
+9/07/2020,127,111,Argentina,Chubut,,90519,19,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Córdoba,,90546,27,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Corrientes,,90546,0,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Entre Ríos,,90567,21,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Formosa,,90567,0,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Jujuy,,90619,52,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,La Pampa,,90619,0,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,La Rioja,,90620,1,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Mendoza,,90631,11,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Misiones,,90631,0,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Neuquén,,90641,10,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Río Negro,,90664,23,1719,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Salta,,90673,9,1720,1,,,,,,,,,
+9/07/2020,127,111,Argentina,San Juan,,90673,0,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,San Luis,,90673,0,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Santa Cruz,,90675,2,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Santa Fe,,90690,15,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Santiago del Estero,,90691,1,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Tierra del Fuego,,90692,1,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Tucumán,,90693,1,1720,0,,,,,,,,,
+9/07/2020,127,111,Argentina,Indeterminado,,90693,0,1720,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Buenos Aires,,92811,2118,1750,30,,,,,,,,,
+10/07/2020,128,112,Argentina,CABA,,93860,1049,1770,20,,,,,,,,,
+10/07/2020,128,112,Argentina,Catamarca,,93860,0,1770,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Chaco,,93910,50,1771,1,,,,,,,,,
+10/07/2020,128,112,Argentina,Chubut,,93914,4,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Córdoba,,93940,26,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Corrientes,,93940,0,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Entre Ríos,,93965,25,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Formosa,,93965,0,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Jujuy,,93988,23,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,La Pampa,,93988,0,1771,0,,,,,,,,,
+10/07/2020,128,112,Argentina,La Rioja,,93994,6,1773,2,,,,,,,,,
+10/07/2020,128,112,Argentina,Mendoza,,94006,12,1773,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Misiones,,94006,0,1773,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Neuquén,,94020,14,1774,1,,,,,,,,,
+10/07/2020,128,112,Argentina,Río Negro,,94046,26,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Salta,,94048,2,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,San Juan,,94048,0,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,San Luis,,94048,0,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Santa Cruz,,94052,4,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Santa Fe,,94058,6,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Santiago del Estero,,94058,0,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Tierra del Fuego,,94058,0,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Tucumán,,94060,2,1774,0,,,,,,,,,
+10/07/2020,128,112,Argentina,Indeterminado,,94060,0,1774,0,,,,,,,,,

@@ -1,0 +1,170 @@
+[
+	{
+		"code": "AR-B",
+		"name": "Provincia de Buenos Aires",
+		"pop_dens": "44,95",
+		"total_pop": 13827203,
+		"country_percentage": "38,13"
+	},
+	{
+		"code": "AR-C",
+		"name": "Ciudad Autónoma de Buenos Aires",
+		"pop_dens": "13743,26",
+		"total_pop": 2776138,
+		"country_percentage": "7,66"
+	},
+	{
+		"code": "AR-A",
+		"name": "Provincia de Salta",
+		"pop_dens": "7,81",
+		"total_pop": 1522304,
+		"country_percentage": "3,03"
+	},
+	{
+		"code": "AR-X",
+		"name": "Provincia de Córdoba",
+		"pop_dens": "20,01",
+		"total_pop": 3001455,
+		"country_percentage": "8,25"
+	},
+	{
+		"code": "AR-R",
+		"name": "Provincia de Río Negro",
+		"pop_dens": "3,14",
+		"total_pop": 638645,
+		"country_percentage": "1,59"
+	},
+	{
+		"code": "AR-U",
+		"name": "Provincia del Chubut",
+		"pop_dens": "2,26",
+		"total_pop": 618994,
+		"country_percentage": "1,27"
+	},
+	{
+		"code": "AR-Z",
+		"name": "Provincia de Santa Cruz",
+		"pop_dens": "1,12",
+		"total_pop": 273964,
+		"country_percentage": "0,68"
+	},
+	{
+		"code": "AR-K",
+		"name": "Provincia de Catamarca",
+		"pop_dens": "3,58",
+		"total_pop": 367828,
+		"country_percentage": "0,92"
+	},
+	{
+		"code": "AR-S",
+		"name": "Provincia de Santa Fe",
+		"pop_dens": "24,02",
+		"total_pop": 3194537,
+		"country_percentage": "7,96"
+	},
+	{
+		"code": "AR-G",
+		"name": "Provincia de Santiago del Estero",
+		"pop_dens": "6,41",
+		"total_pop": 874006,
+		"country_percentage": "2,18"
+	},
+	{
+		"code": "AR-L",
+		"name": "Provincia de La Pampa",
+		"pop_dens": "2,22",
+		"total_pop": 318951,
+		"country_percentage": "0,80"
+	},
+	{
+		"code": "AR-M",
+		"name": "Provincia de Mendoza",
+		"pop_dens": "11,68",
+		"total_pop": 1738929,
+		"country_percentage": "4,33"
+	},
+	{
+		"code": "AR-H",
+		"name": "Provincia del Chaco",
+		"total_pop": 1055259,
+		"country_percentage": "2,63",
+		"pop_dens": "10,59"
+	},
+	{
+		"code": "AR-Q",
+		"name": "Provincia del Neuquén",
+		"total_pop": 551266,
+		"country_percentage": "1,37",
+		"pop_dens": "5,86"
+	},
+	{
+		"code": "AR-F",
+		"name": "Provincia de La Rioja",
+		"total_pop": 333642,
+		"country_percentage": "0,83",
+		"pop_dens": "3,72"
+	},
+	{
+		"code": "AR-J",
+		"name": "Provincia de San Juan",
+		"total_pop": 681055,
+		"country_percentage": "1,70",
+		"pop_dens": "7,59"
+	},
+	{
+		"code": "AR-W",
+		"name": "Provincia de Corrientes",
+		"total_pop": 992595,
+		"country_percentage": "2,47",
+		"pop_dens": "11,25"
+	},
+	{
+		"code": "AR-P",
+		"name": "Provincia de Formosa",
+		"total_pop": 530162,
+		"country_percentage": "1,32",
+		"pop_dens": "7,35"
+	},
+	{
+		"code": "AR-E",
+		"name": "Provincia de Entre Ríos",
+		"total_pop": 1235994,
+		"country_percentage": "3,08",
+		"pop_dens": "15,68"
+	},
+	{
+		"code": "AR-D",
+		"name": "Provincia de San Luis",
+		"total_pop": 432310,
+		"country_percentage": "1,08",
+		"pop_dens": "5,63"
+	},
+	{
+		"code": "AR-Y",
+		"name": "Provincia de Jujuy",
+		"total_pop": 880543,
+		"country_percentage": "1,68",
+		"pop_dens": "12,65"
+	},
+	{
+		"code": "AR-N",
+		"name": "Provincia de Misiones",
+		"total_pop": 1101593,
+		"country_percentage": "2,75",
+		"pop_dens": "36,96"
+	},
+	{
+		"code": "AR-T",
+		"name": "Provincia de Tucumán",
+		"total_pop": 2250301,
+		"country_percentage": "3,61",
+		"pop_dens": "64,29"
+	},
+	{
+		"code": "AR-V",
+		"name": "Provincia de Tierra del Fuego",
+		"total_pop": 127205,
+		"country_percentage": "0,32",
+		"pop_dens": "5,92"
+	}
+]
